@@ -27,21 +27,21 @@ googleAnalytics_UA = ""
 mainSections = ["episode"]
 episode_number_style  = "brackets"
 episode_number_prefix = ""
-site_theme = "blue"
+site_theme = "grey"
 # site_layout = "grid"
 site_layout = "row"
 show_next_upcoming = "true"
 enable_jumbo = "true"
-# enable_jumbo = "false"
 disable_title_caps = "true"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
 copyright_notice = "Copyright 2026 Janaline Oh"
-youtube_subscribe = "https://www.youtube.com/arresteddevops?sub_confirmation=1"
-itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
-spotify_subscribe = "https://open.spotify.com/show/..."
-description = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast) from the most inspiring experts to ever show up on the whole internet."
+youtube_subscribe = "https://www.youtube.com/@Whycanttheyjust"
+itunes_subscribe = "https://podcasts.apple.com/au/podcast/why-cant-they-just/id1818980418"
+spotify_subscribe = "https://open.spotify.com/show/25CCUaugraLCHtUn4dGmz7"
+rss_subscribe = ""
 disqusShortname = ""
+description = "A podcast aimed at delving into Australian politics and policy with a focus on environment, wealth inequality and foreign policy. We try to answer the question why can't they (the government) just solve big issues with simple solutions."
 
   [params.author]
     name = "Janaline Oh"
@@ -50,17 +50,9 @@ disqusShortname = ""
   # Social links can be given in full URL form or short form
   # In the short form the theme will generate a relevant URL
   [params.social]
-    facebook = "Arresteddevops"
-    facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
-    twitter = "https://twitter.com/arresteddevops"
-    twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    instagram = "nozzleio"
-    youtube = "arresteddevops"
-    # Short form in linkedin will link to a user's page so use long form for company pages
-    linkedin = "https://www.linkedin.com/company/linkedin/"
-    #linkedin = "mattstratton"
-    mastodon = "https://hachyderm.io/@mattstratton"
-    threads = "mattstratton"
+    facebook = "61576913427124"
+    instagram = "whycanttheyjust"
+    youtube = "@Whycanttheyjust"
 
   [params.authors]
     [params.authors.Janaline]
