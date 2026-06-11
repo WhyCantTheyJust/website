@@ -9,10 +9,8 @@ episode_image = ""
 explicit = "no"
 author = "Janaline"
 guests = []
-podcast_duration = "1:08:22"
 tags = []
 draft = true
-type = "episode"
 +++
 
 Content content content

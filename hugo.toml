@@ -39,29 +39,13 @@ disable_title_caps = "true"
 copyright_notice = "Copyright 2026 Janaline Oh"
 youtube_subscribe = "https://www.youtube.com/arresteddevops?sub_confirmation=1"
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
-android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 spotify_subscribe = "https://open.spotify.com/show/..."
-stitcher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
-soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
-pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
-mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
-# rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast) from the most inspiring experts to ever show up on the whole internet."
-media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 disqusShortname = ""
-  # If you want to use fathom(https://usefathom.com) for analytics, add this section
- # [params.fathomAnalytics]
- #   siteID = "ABCDE"
 
   [params.author]
     name = "Janaline Oh"
     email = "janaline.oh@gmail.com"
-
-#  [params.feed]
-
-#  [params.realfavicongenerator] # https://realfavicongenerator.net/
-
-#  [params.podlove] # https://subscribe-button.podlove.org
 
   # Social links can be given in full URL form or short form
   # In the short form the theme will generate a relevant URL
