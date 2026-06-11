@@ -24,7 +24,7 @@ pagination.pagerSize = "9"
 
 [params]
 googleAnalytics_UA = ""
-mainSections = ["episodes"]
+mainSections = ["episode"]
 episode_number_style  = "brackets"
 episode_number_prefix = ""
 site_theme = "blue"
