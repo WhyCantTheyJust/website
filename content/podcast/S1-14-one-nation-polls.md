@@ -19,10 +19,10 @@ Please leave a comment, particularly if you have your own "Why can't they just..
 
 Please also feel free to rate and review us, as it does help people to find us.
 
-Music: "Insurrection"\
-Written by Pierre Chrétien\
-Performed by the Soul Jazz Orchestra\
-Courtesy of Do Right Music Inc.
+This episode references Dan Carlin's [Wrath of the Khans](https://www.dancarlin.com/hardcore-history/) series from Hardcore History.
+
+Music: Franz Schubert's Piano Trio No. 2 in E-flat Major\
+Performed by Rudolf Serkin, Adolf Busch, and Hermann Busch
 
 ## Transcript
 

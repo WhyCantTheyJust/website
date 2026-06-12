@@ -15,14 +15,14 @@ tags = []
 draft = false
 +++
 
+A live event was held on Sunday 15 March 2026 at 2pm at the AEU Tasmanian branch.
+
 Please leave a comment, particularly if you have your own "Why can't they just..." question, or email us at `whycanttheyjust@gmail.com`. We'd love to hear from you.
 
 Please also feel free to rate and review us, as it does help people to find us.
 
-Music: "Insurrection"\
-Written by Pierre Chrétien\
-Performed by the Soul Jazz Orchestra\
-Courtesy of Do Right Music Inc.
+Music: Franz Schubert's Piano Trio No. 2 in E-flat Major\
+Performed by Rudolf Serkin, Adolf Busch, and Hermann Busch
 
 ## Transcript
 
