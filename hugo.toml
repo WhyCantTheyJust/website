@@ -36,6 +36,7 @@ disable_title_caps = "true"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
 copyright_notice = "Copyright 2026 Janaline Oh"
+custom_css = ["css/custom.css"]
 youtube_subscribe = "https://www.youtube.com/@Whycanttheyjust"
 itunes_subscribe = "https://podcasts.apple.com/au/podcast/why-cant-they-just/id1818980418"
 spotify_subscribe = "https://open.spotify.com/show/25CCUaugraLCHtUn4dGmz7"
