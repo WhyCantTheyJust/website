@@ -1,18 +1,185 @@
 +++
 date = '2026-05-07'
-episode = "18"
-aliases = ["/18"]
+episode = "S2-02"
+aliases = ["/S2-02"]
+spotify = "3N2P0s46wYXSuHSkTnYzGB"
 hosts = ["janaline", "glenn"]
-title = "Tax Revenue"
-Description = ""
+title = "How can the government raise more revenue?"
+Description = "Janaline and Glenn discuss different ways of raising revenue for the government and the effects of different approaches on how people behave and therefore how much can be raised."
 episode_image = ""
 explicit = "no"
 author = "Janaline"
 guests = []
 tags = []
-draft = true
+draft = false
 +++
 
-Content content content
+Please leave a comment, particularly if you have your own "Why can't they just..." question, or email us at `whycanttheyjust@gmail.com`. We'd love to hear from you.
 
-...
+Please also feel free to rate and review us, as it does help people to find us.
+
+Music: "Insurrection"\
+Written by Pierre Chrétien\
+Performed by the Soul Jazz Orchestra\
+Courtesy of Do Right Music Inc.
+
+## Transcript
+
+**Glenn**<br>
+Welcome to another edition of Why Can't They Just. I'm Glenn Davidson and I'm a member of the Labor Party.
+
+**Janaline**<br>
+I'm Janaline Oh. I'm also a member of the Labor Party, a former diplomat and a current environmental, climate and anti-racism activist. Before we start, I would like to acknowledge that both Glenn and I are recording this on the unceded lands of First Nations people in Australia and we pay our respects to their elders past and present and also extend those respects to any First Nations listeners that we have.
+
+**Glenn**<br> 
+Thanks Janaline. Okay, last time we spoke about tax expenditures and covered that in a fair bit of detail. Today we want to have a little bit of a talk about tax revenues and where the money is coming from. 
+
+Now if we can just sort of step back a little bit in time and channel a little bit of Margaret Thatcher from 1983, and I'm paraphrasing her here, she said, there is no such thing as government money, only taxpayers' money spent in different ways. And it sort of follows from that, when you're talking about tax, you're really talking about what we value and who pays. And that's probably a pretty good starting point. Janaline, take us down a path to talking about that.
+
+**Janaline**<br>
+Sure. I'll be honest, there are not that many things that Margaret Thatcher said that I wholeheartedly agree with, but I think she has a point there, that taxes are, and government budgets are, very much about priorities and values.
+And I think the difference between Labor governments and, let's say, coalition governments is the relative weight that they put on things like individual responsibility versus government support. And in a tax collecting context, this idea that taxes are a bad thing, and that if you work hard and you earn money, you have a right to that money and the government shouldn't be taking it away for you. And therefore, the government should minimise the amount of that money it takes away from you.
+
+I think on the spectrum of extreme individualism, minimalist government to complete socialism, communism, 100% government, Australia is actually quite far along the individualist line. We collect, as a proportion of GDP, quite a lot less tax than many comparable OECD countries, particularly European countries. 
+
+But I also think we really need to have a conversation about what those taxes do. I find it very misleading that a lot of the conversations around things like personal income tax cuts don't actually continue to talk about what those taxes pay for. And I guess this comes to the Margaret Thatcher view that, you know, this is taxpayers’ money. And I think what that means is that the government does have a responsibility to be applying that money for the benefit of taxpayers.
+
+And I think, you know, a lot of countries don't have strong tax bases and they also have terrible government services. And what that tends to mean is that instead of having the government provide things like healthcare and education, and in some cases, security and law and order, and in some cases, even public infrastructure, those services have to be provided privately. And that is obviously very, very costly. And what it tends to mean is that the poorest people in society, the most vulnerable people in society, simply don't get them. So I think when we have a conversation about tax, and when we have a conversation about government revenue, we need to square it very, very firmly into the context of why governments collect revenue. 
+
+And the reason governments collect revenue is to pay for government services that benefit the people. The debate needs to be around what is the level of taxation that delivers the services that people want? And how do you distribute both the delivery of the services and also the collection of the revenue? And I think this episode, we're going to talk about the second, and maybe next episode, we talk a little bit more about the expenditure side. But I think it's just really important to couch our conversation in the context that governments don't just collect revenue for the fun of it.
+
+**Glenn**<br>
+That's absolutely right. You know, we live in a complex system and not everything has a market price. The provision of just normal suburban roads, we wouldn't want a system where that was a private provider and you had to pay a toll every time you went on the road. There's a common good that comes from having an infrastructure that allows people to move around, to go about their normal lives, to get educated, to stay healthy, to work, to enjoy their leisure time and so on. It does cost money to run the place. That's the first point. 
+
+The second point that I'd pick up on is that, really governments of both persuasions have had a hand in peddling this line that taking tax from you is bad. So there's always talk about tax cuts. Even the current government talks about people earning more money and keeping more of what they earn because they pay less tax, rather than couching it in terms of the collection of tax to provide a better quality of services. And then it comes down to the point that I think is going to be the nub, certainly of the next part of our conversation is, if that's sort of given as just a necessary part of living in a modern society, tax needs to be collected. It comes down to who is it collected from, in what quantities, how is the balance shared, is it fair and equitable or is one part of society penalised or taxed more heavily than another, and who benefits from the tax revenue. 
+
+So we could probably reduce that down to two halves in the interest of simplicity, even though we try and stay with a little bit of nuance and complexity in these discussions rather than simple slogans. But a lot of the discussion at the moment is around how wealth is being taxed versus how wages and salaries are being taxed. So why can't the government just put a system in place that taxes everybody, if not equally, then at least fairly?
+
+**Janaline**<br>
+Yeah, I think, look, honestly, I think Australia's taxation system is relatively progressive. I think if you look at income distribution before taxation and transfers and then income distribution after taxation and transfers, Australia actually does okay, as in things are more equal after tax and transfers than they were before. I mean, look, one of the sort of favourite proposals, I guess, on the, let's say, the lower tax, more individual responsibility, less government side of the argument likes to talk about flat taxes. 
+
+The problem with flat taxes is that they are not progressive. And by not progressive, I mean, if you earn $10,000 a year and you're paying 15% tax and somebody's earning $1,000,000 a year and paying 15% tax, yes, they're paying the same proportion of their income. But obviously the person earning $10,000 a year can afford that a lot less and needs a lot more services and assistance to enable them to live the kind of life that maximises their well-being, but also importantly for society, their productivity. 
+
+So for that reason, Australia has progressive tax brackets, where we have a tax-free threshold and, you know, you reach a number of other thresholds, and if you earn more than those, then you get taxed progressively more of your income. I think that is broadly supported in Australia. I think that has a very high degree of social licence, and I certainly would strongly support that. 
+
+Australia, however, also does tax income quite heavily compared to other developed countries. We have a much lower reliance on consumption tax, and we did talk briefly about consumption tax in the last episode, so I won't revisit that. But we also don't tax wealth and assets as much as I think we potentially could. Now, wealth taxes in the sense of, you know, taxes on assets at the very, very high end have the significant drawback that people at that end of the wealth scale usually have access to very good accountants and also the capacity to move their capital offshore and to move around in a way that significantly reduces their tax liability. And they will do that. Economic history in various countries shows that people do do that. In fact, France cancelled its wealth tax a few years ago because so many people were doing that that they found they just weren't really collecting enough to justify the admin. So I think you need to be a bit careful with wealth taxes. 
+
+One of the most efficient types of tax though is a land tax or a sort of fixed asset tax. And the reason it's so efficient is that obviously you can't just pick up your piece of land and move it somewhere else. So it doesn't tend to affect people's behaviour in a way that will counteract the objective of the tax. Land tax is also very progressive because obviously if you are sitting on a very, very valuable piece of land, you are by definition wealthier than somebody who is sitting on a less valuable piece of land. So it also acts as a type of wealth tax. 
+
+So most of land tax is basically levied at the state and territory level. A few state governments are now looking at phasing out stamp duty, which is a transaction tax on buying and selling real estate, and replacing it with land taxes, which are much more efficient. Because if you have a high stamp duty, then somebody sitting on a very valuable property, for example, a four bedroom family home and they perhaps want to downsize because their kids have grown up and moved away and they want to live in a townhouse, a high stamp duty is a disincentive for those people to move out of that property and free it up for a younger family. Whereas a land tax would not do that. 
+
+So I think there is a very strong argument for looking at ways in which you could have more taxes on those sorts of fixed assets because they can't be easily moved around. And they are also very efficient in the sense that they don't change behaviour. 
+
+**Glenn**<br>
+So how would that work if we've currently got a system where local government charges rates based on the unimproved value of your land? So that is a form of tax on the land. Are you talking about something over and above that for a refinement of that?
+
+**Janaline**<br>
+Yeah, So for example, in Victoria and in the ACT, as well as the rates on your property, if you have an investment property, you also have to pay land tax. So that is over and above the rates that you pay on that property. I don't think any of the states and territories levies land tax on your principal place of residence. And I also understand how politically fraught that is as an idea. But I think certainly the idea of having land taxes rather than stamp duties is a good one and perhaps consideration could be given and perhaps, you know, governments could sort of try to start the debate on modest land taxes on your principal place of residence in place of a stamp duty for buying and selling. 
+
+Because I think it really is the sort of thing the housing crisis is really showing up -the need to remove as many impediments to properties changing hands as possible. Because if you've got a whole lot of people sitting in houses that are too big for them that they don't want, and you've also got a whole lot of people trying to get into those houses and not finding them available, you really, as a government, need to look at how you free up that situation and let the market work more efficiently.
+
+**Glenn**<br>
+Yeah, because that's another part or another dimension to the housing issue where, because of the taxation structures around housing and your principal residences, they've become the major source of wealth creation and wealth building for people over time. And of course, stamp duty only applies when you buy and sell. And if you're staying in your house for 20, 30, 40 years, you never pay that tax. I mean, if you never sell and you move on into the next world, you may never pay that stamp duty. So there is that issue where there are a lot of big houses with only a small number of people living in them because it's just financially too much of a disincentive to move. 
+
+But it has become somewhat of a sacred cow in our political dialogue that your family home is sacrosanct and can't be taxed in any way other than, as we mentioned before, the business about rates and charges that way. But there's scope there for a change. Because some people are sitting on a lot of wealth in very big houses, in desirable areas of cities.
+
+**Janaline**<br>
+I'd love to see more public debate on that. I would love to see actual political space being opened in those areas.
+
+**Glenn**<br>
+Yeah, we just loop back a little bit back to the progressive tax system that we've got with wage and salary earners, because one of the irritants in that is that those tax brackets are not indexed for inflation. So as people just get routine pay rises to effectively keep up with inflation at best, over time, they can move into higher tax brackets and be taxed as though they are a middle or an upper middle income earner, when in fact the dollar value really is just what lower income earners are earning. 
+
+So previously, for example, some years ago, a person might be earning $25,000 or $30,000 a year. Over the decade or more, that's grown up to $60,000 or $70,000 a year, but it buys the same amount of things, but the rate of tax that they're paying is higher. So here's a good question. Why can't the government just index those tax brackets and remove that problem?
+
+**Janaline**<br>
+Well, the reason they can't is because they're not being brave enough on the other taxation, to be honest. Because of course, bracket creep is a huge income earner for the government. I mean, a huge revenue earner for the government. And then it also gives them the opportunity every, 5 to 10 years to appear to be giving a great big tax cut back to people and get the political credit for that, when actually all they're doing is giving back a portion of the bracket creep. 
+
+So there are a myriad of political incentives for governments of any political persuasion not to index tax brackets. That said, it is a recommendation that came out of the Henry Tax Review. Ken Henry still says you should index tax brackets. He thinks it's actually an outrage that we collect so much personal income tax from younger wage earners in order to fund very, very lavishly concessional tax arrangements for much wealthier, older people. And I cannot disagree with him. I think he is absolutely right.
+
+I think if the government were to index tax brackets, they should absolutely squeeze as much political credit for that as possible and take the advantage of that political credit to put in place more rational and efficient revenue raising systems such as, for example, a federal land tax or raising consumption taxes with appropriate protections for low income earners. So yes, I think they should absolutely index tax brackets, but I think if they do that, they do need to accompany it with some sort of measure that's going to raise revenue. 
+
+**Glenn**<br>
+All right. So while we're talking about asset taxes, a matter that's been quite topical over recent weeks, it's not so much an asset, but it's a tax on a type of property and that's the issue around the gas tax as we're going through this crisis in the Middle East, which is causing the returns for the gas companies to skyrocket because of increasing demand and increasing prices. And there's been some debate around that as to whether the government should add a 25% tax on those companies.
+
+Why can't they just do that? If I can channel now to Ken Henry, we gave Margaret Thatcher a run before, let's go for somebody who is probably a little bit more attuned to the way we see things, and that's Ken Henry, who at the Senate hearing last week said, just do it. Why can't the government just do it?
+
+**Janaline**<br>
+Yeah, I don't know that Ken Henry was specifically talking about a 25% export levy on gas, which is what, which is a proposal that the Greens and some of the crossbench and a number of NGOs have put forward. I also appeared before that Senate select committee representing the Labor Environment Action Network. I wasn't on the same panel as Ken Henry, I was on a panel with Greenpeace. What I said to the panel was that LEAN members support more returns from resource projects going to the Australian taxpayer. It is actually in the ALP national platform, which has a phrase in the economics chapter saying Labor believes Australians should get a fairer return from resources.
+
+I didn't go into any particular analysis of the different proposals on the table because I was representing an organization. In this podcast, I'm not representing an organization. And so I am going to offer my personal view. 
+
+My personal view is that a 25% export levy on gas is probably not the most efficient way of raising revenue. It probably would create an issue with our trading partners, because it would potentially affect the price of their gas. I know a lot of the NGOs are saying, no, it wouldn't have any effect on the international price, but it might have an effect on the specific price of specific contracts. In any case, I think it would probably not be a good signal to those buyers. And the reason I think we need to be sensitive to signals to those buyers is that if we have any hope of decarbonizing Australia's exports, as in if we have any hope of moving away from dependence on fossil fuel exports, which is the case for Australia at the moment, and moving towards beefing up our renewable energy based exports; so things like green hydrogen, green iron, green steel, the people that we need to buy those green metals and green hydrogen are kind of the same people who are currently buying our methane gas.
+
+So we need to assure them that we are a reliable trade partner, a reliable supplier. We will fulfil our contracts faithfully as long as they need them. And by the way, because we are so reliable, you can trust us to sell you this new stuff that you're perhaps less familiar with, that you feel you might be taking a bit of a risk with. And I think if we can't provide that assurance, then it's going to be very, very difficult for us to sell our green metals. And if we cannot sell our green metals, then we are not going to be able to shift from our fossil fuel dependence. And I think our absolute number one objective has got to be decarbonizing the entire global supply chain if we are to have any hope at all of managing climate change. So I think for all of those reasons, personally, I am not attracted by a 25% gas export levy. 
+
+The other reason I'm not attracted by it is because one of the dangers of raising so much money for gas exports is that it then makes it a lot more difficult for a government essentially to phase out that industry. And this was a thing that, for example, the UK found. So one of the things that the UK has done for years and years is put very high taxes on the national lottery. This is very good. It's a really, really big revenue earner, but that's also a problem because it's become such a big revenue earner that even when evidence started to emerge that gambling was, you know, creating some real social problems, it became very, very difficult for the government to shut it down because it was so reliant on that revenue.
+
+So I would not want to see any Australian government so reliant on fossil fuel revenue that they would find it more difficult to essentially phase it out and move to something else. This is not to say that we shouldn't be taxing gas more. That's just to say that specific mechanism I have reservations about. And I'm not saying it's a bad thing. I'm not saying I oppose it. I'm just saying I have some questions around it. I am much more attracted to a very, very high windfall tax. And I think that's what Ken Henry said. I think Ken Henry was advocating for a tax of 100% on windfall profits. And I would strongly agree with that because windfall profits are not normal profits. These are the profits that are generated because of you know, a natural phenomenon that people weren't expecting, or a geopolitical event, like somebody invades somebody else or somebody starts attacking somebody else and the price of a commodity shoots through the roof and the people who are purveying that commodity get a massive windfall profit. 
+
+I don't see any reason that that profit cannot be returned pretty much in totality to the Australian people, because if you're basing your investment decisions on the hope that you're going to get these windfall profits, then you are basically saying that you are hoping that at some point during your production phase, somebody's going to start a war. Now, apart from the morally questionable basis of that, it also seems to me to be incredibly risky because by and large there aren't significant wars. Windfall profits taxes do not kill investment. They are not a disincentive to investment. I just don't see any reason that you wouldn't do that. 
+
+The other option that I think is worth considering seriously is a proposal put forward by the Superpower Institute for a thing they call the Fair Share Levy. And what they're proposing is that the Australian government move toward the kind of investment and taxation arrangement that Norway has for its North Sea oil resources, which is that - it's not exactly that the government takes an equity stake, but it has a similar effect. So what it means is that during a production phase of a project, when the investment costs are very high, the government will help to bear some of that cost. But then during the production phase, when all the profits come in, the government gets a very significant share of those profits. And what they're proposing is a 40% two-way cash flow levy, which would effectively play that role. I think that is definitely worth considering. That would potentially generate a very significant amount of revenue and it also would not affect the investment outlook for those companies. Because again, the government is not just putting a tax on one end of it, it's actually engaging in the whole process.
+
+**Glenn**<br>
+Well, that certainly brings a bit of complexity to what had been reduced to a fairly simple good guy, bad guy argument in the, we feel like the popular discourse over the last few weeks, because we saw at that Senate hearing, Richard Denniss from the Australia Institute mounted a very strong economic case, talking about taxing just the profits of the companies and arguing that that would not have any impact on the price because they're selling it at a world price. So it would be the company that would take the hit, not the customers. And then you had Ken Henry's argument there about the windfall profits tax at 100%, which you could see the eyebrows raise when he said tax it at 100%, until he explained it out as you've just done there. All of that is not taking place in the sterile vacuum of an econometric model. It's happening in the real world where there are relationships to be managed, perceptions to be managed, a whole lot of uncertainty to be managed. And as we're seeing, the Prime Minister and the Foreign Minister delicately trotting around Southeast Asia, talking to our suppliers and customers to manage the relationships through this period and who are not keen, obviously, to make that job any harder than it already is.
+
+So that's certainly a complicated thing, somewhat, isn't it? It's much easier when it's just a simple, we're good, you're bad, you pay more, we'll be happy.
+
+**Janaline**<br>
+Yeah, look, I've got to say, I'm not comfortable generally, and I've talked about this on the podcast before, you know, this sort of the Disney-fied view of the world where it says there are good people and there are bad people and there are good actors and there are bad actors. And in this case, you know, the bad actors are the gas companies which are out to rip off the Australian people. 
+
+No, the gas companies are out to make a profit for their shareholders and that is what they are supposed to do. So I think it is perfectly understandable that they want to get a return on their investment, and it is not unreasonable that they want to get a return on their investment. It's a question of how you ensure that they get a return on their investment, but that the Australian people who actually own the resource also get a return on their resource because they are entitled to that return. So I said to the committee that I'm with Rutger Bremer, who is a Dutch historian who went to Davos, to the World Economic Forum, you know, this sort of shindig of all the richest and most powerful people in the world, and went on a panel and said he never met a tax he didn't like, which you can imagine in that company was received with some skepticism. I think I said to the committee that that is pretty much my position on resource taxes. I think, you know, I've never really met a resource tax that I didn't think was worth considering. I do think we should be raising taxes on gas. I do think we are under-taxing our resources. I do also have some sympathy for the PM and the Foreign Minister, you know, because they do have a difficult job and perceptions are important. 
+
+So I think probably we won't see a significant move in relation to taxation of resources in this budget, but I think that the argument has not closed and I think there will be debate going forward and I think the government will continue to face pressure to do something and so they should. I will certainly be participating in exerting some of that pressure if I have the capacity to do so, because I think it is important. It is an important reform going forward.
+
+**Glenn**<br> 
+It certainly is, and I think that momentum will carry that discussion further forward. Let's change tack now and have a little talk about inheritance taxes. Now, inheritance taxes haven't been part of the Australian landscape for probably nearly 50 years, more than 40 years now, since the mid to late 1970s, when the then Queensland Government under Joh Bjelke-Petersen abolished death taxes in Queensland, and there was an exodus of retirees and others moving their assets to Queensland so that when they died, their properties or their estate would pass on to their heirs and successors without having to pay death duties and of course the other states had to follow so that they didn't lose any revenue. And while inheritance taxes have been discussed from time to time, it's not generally happened in polite company and not for very long. It's dismissed fairly quickly because it's not an area that people are keen to go to.
+
+But it is a source of revenue because we do have quite a growing, not a large proportion, but a growing proportion of high wealth individuals who are perpetuating intergenerational wealth disparities through being able to pass on their wealth without it attracting any sort of tax or at least not a significant amount of tax. So why can't the government just bite the bullet and bring in some inheritance taxes so that we can get a share of that revenue?
+
+**Janaline**<br>
+I so wish they would. I think we sort of touched on the inequities in those really, really high superannuation balances, which people are basically, you know, using as low tax nest eggs to pass on to their descendants.
+
+I think it's absolutely a terrible idea to allow this to happen. And I think if the government is serious about intergenerational equity, at some point, we need to have a discussion about estate taxes and we need to call them estate taxes. We need not to fall into the trap of calling them death taxes or death duties because they are not a tax on death. They are a tax on very, very large estates that have been accumulated by wealthy people and that are perpetuating intergenerational inequality at a degree that is absolutely mind blowing. 
+
+The Economist newspaper, which is not, you know, a very kind of socialist outfit, ran a special on intergenerational wealth transfer. And they are predicting trillions of dollars of wealth passing from baby boomers to their children and grandchildren over the next 10 to 15 years at a staggering scale, a scale that is unprecedented in history. And essentially making the case that this should not be allowed to happen, and that, in fact, you know, the idea that your chances in life should be determined by the family that you were born into is something that should have died in the 17th century with the French and the American Revolutions.
+
+So I really feel quite strongly that this is an area that the public should start debating and it should start debating on the terms around how do we stop this? How do we capture some of that intergenerational wealth transfer for the good of the whole population? Because the people who are inheriting this wealth are not wealth creators. They haven't created it, right? I mean, I think there are arguments around, you know, you work hard and you earn your money and you shouldn't have to cough up more than a certain amount of it in tax. I mean, I think we've sort of touched on that. I think there is a good argument that you should cough up a fair amount of it to pay for the services that you enjoy. But even if you accept that sort of, I work hard, I shouldn't pay tax argument, that does not apply to, I had a rich mum and dad, I should be allowed to inherit all of their wealth.
+
+The most effective types of inheritance tax are, I think, the ones that are set at a relatively generous threshold. So I'm not saying people don't have the right to pass stuff on to their kids, but I think it's got to be within reason. And, you know, people will say, Oh, but what about farms and businesses?
+
+You can always find ways of exempting, you know, functioning businesses for example. You can find, there are ways of ensuring that you can pass on a productive enterprise to your heirs without compromising the very substantial wealth transfers that are about to happen or are beginning to happen. And I think it's really important that those estates include principal places of residence, because I really think exempting the family home when so much of people's wealth is actually tied up in their principal place of residence, I think is also problematic.
+
+**Glenn**<br>
+I think you hit the nail on the head when you said we should be framing the argument as estate taxes rather than death duties because we've seen from time to time, particularly the Liberal National parties will run scare campaigns in elections saying that Labor wants to introduce death duties and they want to take all of your wealth so your kids will be left with nothing.
+
+And because that argument runs and it gets its own life before you've had a chance to counter it with any logic or any fact. So if you start a discussion, not an argument, a discussion around estate taxes or duties, and as you say, you set the threshold at a high level so that it doesn't pick up the bottom 80% of people, but you make whatever the rate of tax is, fair and reasonable, because you're not taking everything, you're just taking a proportion. And again, that gets lost in the populist argument, to say you're going to lose everything and your kids will be left with nothing.
+
+So it's probably a discussion that needs to be, when the first words are mentioned in it, they need to be very carefully chosen and very precisely targeted so that all of those what about questions and arguments and what about my farm and what about this  and the five people who have got compelling stories that they always seem to find to tell their story to undercut the whole argument don't get any traction.
+
+**Janaline**<br>
+I think couching it in terms of intergenerational equity is the key, because it is staggeringly inequitable.
+
+**Glenn**<br>
+Yes, it certainly is. Now, I wouldn't say it's staggeringly inequitable, but there is a certain inequity that's growing at the moment with the whole issue around excise taxes, particularly as they relate to fuel taxes. One of the unintended consequences of this current crisis in the Middle East is that there's been a massive increase in demand for electric vehicles.
+
+Whereas previously you could probably walk into an electric car dealership and get a car within a few days, now you're waiting a few months because lots of people are doing that. But because you're not putting petrol or diesel in your car, you're not paying that fuel tax, but yet you're still using the same roads. So there's an equity issue there in terms of who's paying, not that there's a direct link between that fuel excise and the roads, but the principle is still there. If you're driving an electric vehicle, you're not paying that excise towards the upkeep of roads. So why can't the government do something to balance that inequity out?
+
+**Janaline**<br>
+Well, I think the government is contemplating doing something. I think various of the states have contemplated doing something. Victoria introduced a thing quite clumsily and had it rejected by the High Court because the High Court determined that it should be a Commonwealth responsibility. I think the Commonwealth is looking at it.
+
+I think it is absolutely an equity argument. I mean, I am all for encouraging electric vehicle use, 100%. But we're on the cusp of that sweet spot where there are enough affordable EVs coming into Australia. The prices are coming down. The fuel efficiency standards are certainly helping with that. And I think it is time to actually start looking at removing those incentives for electric vehicle uptake and contemplating a kind of road user charge to cover all cars, including electric vehicles. 
+
+And that is absolutely an equity argument because electric vehicle users are wealthier people. Now, I think in the initial phases, when you're trying to kind of really encourage those early adopters to create a market, it makes sense and there is a justification for giving incentives that you know are principally going to accrue to higher income people. And that is what the electric vehicle concessions and subsidies have done. So I don't think we should at all pretend that those subsidies benefited low-income people. However, I think you would get to a point pretty quickly, and I think, as I said, we're pretty close to that point now, particularly with the fuel crisis, where you've got to start saying, well, actually, instead of continuing to subsidise better off people to get EVs, we actually need to be looking at this equity argument. 
+
+I find it utterly inequitable that I pay no fuel excise because I drive an EV on a pretty comfortable income. And that's how I was able to afford my EV. And my 19 year old daughter, who is a university student, and don't get me wrong, she is subsidised by her parents, but she's driving a petrol car and paying fuel excise as well as, you know, pretty eye watering prices because of the fuel prices. So I think there is definitely an equity argument for road user charges that go across the board. I think they need to be carefully designed and they need to be carefully thought through, but I think there is definitely a case for them.
+
+**Glenn**<br>
+Yes, certainly the prices for EVs now are generally on a par with petrol vehicles. There's probably some cheaper vehicles that are still petrol run, but there's a big range of types of cars in that new car market where the prices are comparable.
+
+The price should not be a barrier now to buying an EV. And of course, as more people buy them, more vehicles come onto the secondhand market, so lower income people can move into EVs. But that will take time before the majority of cars are EVs, although I suspect that that timeline will have come forward as a result of this current crisis. But there is that whole issue around who should be paying for using the roads and how much should they be paying. So that should be a fairly easy one, I would think, for the government to do, to look at changing that balance between fuel excise versus a road user charge without doubling up, because you don't want people who are paying fuel excise to also be paying a road user charge. So it's not a simple matter, but it is just about the numbers and so it shouldn't be beyond us to do that. 
+
+Well, I think it's pretty clear Janaline that there's a lot of opportunities for at least discussion and hopefully some action to look at increasing tax revenues in a way that benefits the broader community, doesn't unfairly penalise some, perhaps stop some from having the generous treatment that they've got to the extent that it's overly generous at the moment. But that's our time for another week. I'm Glenn Davidson.
+
+**Janaline**<br>
+My name is Janaline Oh, and this is _Why Can't They Just?_
