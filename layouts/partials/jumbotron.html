@@ -8,11 +8,17 @@
               </p>
         </div>
 
+        {{ if isset .Site.Params "about_logo" }}
+        <div class="col-lg-3">
+            <img alt="{{ .Site.Title }}" src="{{ .Site.Params.about_logo | absURL }}" class="img-fluid">
+        </div>
+        {{ else }}
         {{ range where site.RegularPages "Type" "host" }}
         <div class="col-lg-2">
             <img alt="{{ .Title }}" src="{{ .Params.Thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
             <p class="text-center text-capitalize">{{ .Title }}</p>
         </div>
+        {{ end }}
         {{ end }}
 
     </div>
