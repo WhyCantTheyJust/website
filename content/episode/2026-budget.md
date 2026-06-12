@@ -2,6 +2,7 @@
 date = '2026-06-02'
 episode = "21"
 aliases = ["/21"]
+spotify = "24wKG9Tda35TRayHu6lkYf"
 hosts = ["janaline", "glenn"]
 title = "Will the 2026 Federal Budget reduce inequality or destroy the economy?"
 Description = "Janaline, Glenn and Luke pick apart the 2026 Federal Budget, particularly the revenue measures, but also its potential impact on productivity. Spoiler alert - we think businesses and asset holders should pay tax just like wage earners."
@@ -13,18 +14,13 @@ tags = []
 draft = true
 +++
 
-[link to podcast](https://open.spotify.com/episode/24wKG9Tda35TRayHu6lkYf?si=xF-W1wKjTw2p9KNGvo0NPw) 
-
-Please leave a comment, particularly if you have your own "Why can't they just..." question, or email us at whycanttheyjust@gmail.com. We'd love to hear from you.
+Please leave a comment, particularly if you have your own "Why can't they just..." question, or email us at `whycanttheyjust@gmail.com`. We'd love to hear from you.
 
 Please also feel free to rate and review us, as it does help people to find us.
 
-Music:"Insurrection"
-
-Written by Pierre Chrétien
-
-Performed by the Soul Jazz Orchestra
-
+Music: "Insurrection"\
+Written by Pierre Chrétien\
+Performed by the Soul Jazz Orchestra\
 Courtesy of Do Right Music Inc.
 
 ## Transcript
@@ -197,4 +193,4 @@ That wraps another episode of Why Can’t They Just? Our theme music for this po
 I’m Luke Robertson.
 
 **Janaline**<br> 
-I’m Janaline Oh, and this is Why Can’t They Just?
+I’m Janaline Oh, and this is _Why Can’t They Just?_

@@ -89,3 +89,6 @@ description = "A podcast aimed at delving into Australian politics and policy wi
       [params.links.sdt]
         name = "Software Defined Talk"
         url = "https://cote.io/podcasts/sdt/"
+
+[markup.goldmark.renderer]
+    unsafe = true
