@@ -3,22 +3,24 @@
 <div class="jumbotron">
     <div class="row">
         <div class="col">
-            <p>
-                {{ .Site.Params.description | markdownify }}
-              </p>
+            {{ if .Content }}
+              {{ .Content }}
+            {{ else }}
+              <p>{{ .Site.Params.description | markdownify }}</p>
+            {{ end }}
         </div>
 
-        {{ if isset .Site.Params "about_logo" }}
+        {{ with .Params.image }}
         <div class="col-lg-3">
-            <img alt="{{ .Site.Title }}" src="{{ .Site.Params.about_logo | absURL }}" class="img-fluid">
-        </div>
-        {{ else }}
-        {{ range where site.RegularPages "Type" "host" }}
-        <div class="col-lg-2">
-            <img alt="{{ .Title }}" src="{{ .Params.Thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
-            <p class="text-center text-capitalize">{{ .Title }}</p>
+            <img alt="{{ $.Site.Title }}" src="{{ . | absURL }}" class="img-fluid">
         </div>
         {{ end }}
+
+        {{ range $p:= $.Site.Params.authors }}
+        <div class="col-lg-2">
+            <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
+            <p class="text-center text-capitalize">{{ $p.name }}</p>
+        </div>
         {{ end }}
 
     </div>
@@ -68,9 +70,13 @@
             <a class="btn btn-default" href="{{ .Site.Params.pocketcasts_subscribe }}"><i class="fa fa-podcast"></i>&nbsp;PocketCasts</a>
           </div>
         {{ end }}
-        {{ if (isset .Site.Params "rss_subscribe") }}
+        {{ if (isset .Site.Params "rss_subscribe" )}}
           <div class = "d-flex p-2 subscribe_buttons col-md-auto">
             <a class="btn btn-default" href="{{ .Site.Params.rss_subscribe }}"><i class="fa fa-rss"></i>&nbsp;Podcast RSS</a>
+          </div>
+        {{ else }}
+          <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+            <a class="btn btn-default" href="{{"episode/index.xml" | absURL }}"><i class="fa fa-rss"></i>&nbsp;Podcast RSS</a>
           </div>
         {{ end }}
         {{ $blog := (where .Site.RegularPages "Section" "==" "blog") }}

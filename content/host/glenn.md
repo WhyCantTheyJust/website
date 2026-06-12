@@ -1,5 +1,6 @@
 +++
 Date = 2026-06-11
+order = 2
 title = "Glenn Davidson"
 Pronouns = ""
 Twitter = ""

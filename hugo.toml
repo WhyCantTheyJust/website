@@ -36,7 +36,6 @@ youtube_subscribe = "https://www.youtube.com/@Whycanttheyjust"
 itunes_subscribe = "https://podcasts.apple.com/au/podcast/why-cant-they-just/id1818980418"
 spotify_subscribe = "https://open.spotify.com/show/25CCUaugraLCHtUn4dGmz7"
 disqusShortname = ""
-description = "A podcast aimed at delving into Australian politics and policy with a focus on environment, wealth inequality and foreign policy. We try to answer the question why can't they (the government) just solve big issues with simple solutions."
 
   [params.author]
     name = "Janaline Oh"
