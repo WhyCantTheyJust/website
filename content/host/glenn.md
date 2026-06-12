@@ -1,14 +1,14 @@
 +++
-Date = 2026-06-11T21:28:55+10:00
+Date = 2026-06-11
 title = "Glenn Davidson"
-Pronouns = "He/Him"
+Pronouns = ""
 Twitter = ""
 Website = ""
 Type = "host"
 Facebook = ""
 Linkedin = ""
 GitHub = ""
-Thumbnail = ""
+Thumbnail = "img/host/glenn.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""

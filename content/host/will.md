@@ -1,6 +1,6 @@
 +++
 Date = 2026-06-11
-Title = "Janaline Oh"
+title = "William Sinclair"
 Pronouns = ""
 Twitter = ""
 Website = ""
@@ -8,7 +8,7 @@ Type = "host"
 Facebook = ""
 Linkedin = ""
 GitHub = ""
-Thumbnail = "img/host/janaline.jpg"
+Thumbnail = "img/host/will.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
