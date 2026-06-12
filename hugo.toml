@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = "Why Can't They Just? (podcast)"
+title = "Policy for People"
 theme = 'castanet'
 pagination.pagerSize = "9"
 
@@ -12,14 +12,9 @@ pagination.pagerSize = "9"
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
 [[Menu.Main]]
-    name = "About"
-    identifier = "about"
-    url = "/about"
-
-[[Menu.Main]]
-    name = "Hosts"
-    identifier = "hosts"
-    url = "host"
+    name = "Why Can't They Just? (podcast)"
+    identifier = "podcast"
+    url = "/podcast"
 
 
 [params]

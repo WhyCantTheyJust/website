@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<div class="container-fluid grid_container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col">
+        {{ .Content }}
+      </div>
+      {{ with .Params.org_image }}
+      <div class="col-lg-3">
+        <img alt="{{ $.Site.Title }}" src="{{ . | absURL }}" class="img-fluid">
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ range first 1 (where site.RegularPages "Type" "episode") }}
+<div class="row hero_container">
+  <div class="col-md-12">
+    <h2>Latest Episode</h2>
+    <h3><a href="{{ .Permalink }}" class="row_latest_episode_title">{{ .Title }}</a></h3>
+    <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+    <p class="homepage_episode_description lead">{{ .Description | markdownify }}</p>
+    <a href="{{ .Permalink }}" class="btn btn-default">Listen &rarr;</a>
+  </div>
+</div>
+{{ end }}
+
+<div class="row" style="margin-top: 1.5rem; margin-bottom: 1rem;">
+  <div class="col">
+    <a href="/podcast/">All episodes &rarr;</a>
+  </div>
+</div>
+
+{{ end }}
