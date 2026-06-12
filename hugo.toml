@@ -12,7 +12,7 @@ pagination.pagerSize = "9"
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
 [[Menu.Main]]
-    name = "Why Can't They Just? (podcast)"
+    name = "Our podcast: Why Can't They Just?"
     identifier = "podcast"
     url = "/podcast"
 
