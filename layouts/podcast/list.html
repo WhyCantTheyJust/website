@@ -3,7 +3,7 @@
 {{ partial "jumbotron.html" . }}
 
 <section class="episode-list">
-  {{ range where site.RegularPages "Type" "episode" }}
+  {{ range where site.RegularPages "Type" "podcast" }}
   <div class="row homepage_episode_row">
     <div class="col-md-12">
       {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}

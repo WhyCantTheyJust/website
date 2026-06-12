@@ -19,7 +19,7 @@ pagination.pagerSize = "9"
 
 [params]
 googleAnalytics_UA = ""
-mainSections = ["episode"]
+mainSections = ["podcast"]
 episode_number_style  = "brackets"
 episode_number_prefix = ""
 site_theme = "grey"
