@@ -1,6 +1,7 @@
 +++
 date = '2026-05-27'
 episode = "S2-04"
+slug = "one-nation-policies"
 aliases = ["/S2-04"]
 spotify = "5bzML0QMZ0tMbhBTL2k0cz"
 hosts = ["janaline", "glenn"]

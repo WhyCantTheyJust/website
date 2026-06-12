@@ -1,7 +1,8 @@
 +++
 date = '2026-01-15'
-episode = "11"
-aliases = ["/11"]
+episode = "S1-11"
+slug = "venezuela"
+aliases = ["/S1-11"]
 spotify = "15V0FRApkiQ2odeuwDOmiC"
 hosts = ["william", "janaline"]
 title = "Venezuela, US foreign policy and Australia's response"
@@ -178,4 +179,6 @@ That was this week's episode of Why Can't They Just. If you have a question that
 
 **Janaline Oh**<br>
 My name is Janaline Oh and this is Why Can't They Just.
+
+
 

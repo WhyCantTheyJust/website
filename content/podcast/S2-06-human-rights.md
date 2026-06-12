@@ -1,7 +1,8 @@
 +++
-date = '2026-06-05'
-episode = "S2-05"
-aliases = ["/S2-05"]
+date = '2026-06-11'
+episode = "S2-06"
+slug = "human-rights"
+aliases = ["/S2-06"]
 spotify = "1U8fCyuORxAQgadD3QpLZ1"
 hosts = ["janaline", "luke"]
 title = "Why should you care about human rights?"

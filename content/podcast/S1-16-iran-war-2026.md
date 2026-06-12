@@ -1,7 +1,8 @@
 +++
 date = '2026-04-11'
-episode = "16"
-aliases = ["/16"]
+episode = "S1-16"
+slug = "iran-war-2026"
+aliases = ["/S1-16"]
 spotify = "7rzJIkj28kMmA92N2aU3Lw"
 hosts = ["william", "janaline"]
 title = "Bonus episode: War on Iran and Australia's response"
@@ -226,4 +227,5 @@ All right, that was this week's episode of Why Can't They Just? If you'd like to
 
 **Janaline Oh**<br>
 My name's Janaline Oh, and this is Why Can't They Just?
+
 

@@ -1,6 +1,7 @@
 +++
 date = '2026-05-01'
 episode = "S2-01"
+slug = "tax-expenditures"
 aliases = ["S2-01"]
 spotify = "2SLgFPu1B1gp0zAx6KA52Z"
 hosts = ["janaline", "glenn", "luke"]

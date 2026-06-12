@@ -1,7 +1,8 @@
 +++
 date = '2025-07-16'
-episode = "3"
-aliases = ["/3"]
+episode = "S1-03"
+slug = "tax-superannuation"
+aliases = ["/S1-03"]
 spotify = "3MgpbhIZosO7nAzsNOglML"
 hosts = ["william", "janaline"]
 title = "Tax, superannuation, economic reform and productivity"
@@ -195,5 +196,6 @@ Thank you so much to Euca Lord and Callum Sinclair for editing. The song is call
 
 **Janaline Oh**<br>
 My name is Janaline Oh, and this is Why Can't They Just?
+
 
 

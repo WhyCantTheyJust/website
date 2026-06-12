@@ -1,7 +1,8 @@
 +++
 date = '2025-11-19'
-episode = "8"
-aliases = ["/8"]
+episode = "S1-08"
+slug = "gambling-reform"
+aliases = ["/S1-08"]
 spotify = "4gMR42rzIi1lXNlaWfc1LP"
 hosts = ["callum", "janaline"]
 title = "Gambling reform"
@@ -149,4 +150,6 @@ So the music is called Insurrection, written by Pierre Chrétien, performed by t
 
 **Janaline Oh**<br>
 My name is Janaline Oh, and this is Why Can't They Just.
+
+
 

@@ -1,7 +1,8 @@
 +++
 date = '2025-11-02'
-episode = "7"
-aliases = ["/7"]
+episode = "S1-07"
+slug = "economic-inequality"
+aliases = ["/S1-07"]
 spotify = "2ls1ZVR743RkXvb4vyDvKO"
 hosts = ["callum", "janaline"]
 title = "Economic inequality"
@@ -321,4 +322,6 @@ My name is Callum Sinclair.
 
 **Janaline Oh**<br>  
 My name is Janaline Oh and this is Why Can't They Just.
+
+
 

@@ -1,7 +1,8 @@
 +++
 date = '2026-02-01'
-episode = "12"
-aliases = ["/12"]
+episode = "S1-12"
+slug = "us-bilateral-order"
+aliases = ["/S1-12"]
 spotify = "4HUfioDBAYv5VHHle1yQWf"
 hosts = ["william", "janaline"]
 title = "US bilateral relationship and international rules-based order"
@@ -205,6 +206,7 @@ My name is William Sinclair.
 
 **Janaline Oh**<br>
 My name is Janaline Oh, and this is Why Can't They Just.
+
 
 
 

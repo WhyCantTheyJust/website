@@ -1,7 +1,8 @@
 +++
 date = '2025-11-23'
-episode = "9"
-aliases = ["/9"]
+episode = "S1-09"
+slug = "epbc-reform"
+aliases = ["/S1-09"]
 spotify = "4OycSiJ1zsxBUOSecIvvGu"
 hosts = ["callum", "janaline"]
 title = "Special episode: EPBC environmental law reform"
@@ -250,4 +251,5 @@ Thank you, Janaline. This music is called Insurrection, written by Pierre Chrét
 
 **Janaline Oh**<br>
 My name is Janaline Oh and this is Why Can't They Just.
+
 

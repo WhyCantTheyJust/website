@@ -1,7 +1,8 @@
 +++
 date = '2026-02-09'
-episode = "13"
-aliases = ["/13"]
+episode = "S1-13"
+slug = "hate-speech-laws"
+aliases = ["/S1-13"]
 spotify = "47yLKl03HNWkZ1gvBQxNVb"
 hosts = ["william", "janaline"]
 title = "Australia's new hate speech laws"
@@ -184,4 +185,5 @@ My name is William Sinclair.
 
 **Janaline Oh**<br>
 My name's Janaline Oh, and this is Why Can't They Just?
+
 

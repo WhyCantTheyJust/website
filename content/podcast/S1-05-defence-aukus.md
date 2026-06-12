@@ -1,7 +1,8 @@
 +++
 date = '2025-09-14'
-episode = "5"
-aliases = ["/5"]
+episode = "S1-05"
+slug = "defence-aukus"
+aliases = ["/S1-05"]
 spotify = "5YhgsYtk1jjucG4Jgp7bD2"
 hosts = ["callum", "janaline"]
 title = "Defence spending, national security and AUKUS"
@@ -240,3 +241,4 @@ Thank you so much, Janaline Oh. The music is called Insurrection, written by Pie
 
 **Janaline Oh**<br>
 My name is Janaline Oh and this is Why Can't They Just.
+

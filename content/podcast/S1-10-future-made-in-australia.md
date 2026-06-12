@@ -1,7 +1,8 @@
 +++
 date = '2025-12-29'
-episode = "10"
-aliases = ["/10"]
+episode = "S1-10"
+slug = "future-made-in-australia"
+aliases = ["/S1-10"]
 spotify = "64jFJuMmUtLsV7IcWOY92k"
 hosts = ["william", "janaline"]
 title = "Future Made in Australia"
@@ -151,5 +152,6 @@ All right, that was this week's episode of Why Can't They Just, looking at the F
 
 **Janaline Oh**<br>
 My name is Janaline Oh, and this is Why Can't They Just?
+
 
 

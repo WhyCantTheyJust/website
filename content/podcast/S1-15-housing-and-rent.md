@@ -1,7 +1,8 @@
 +++
 date = '2026-03-09'
-episode = "15"
-aliases = ["/15"]
+episode = "S1-15"
+slug = "housing-and-rent"
+aliases = ["/S1-15"]
 spotify = "2PdSyKEWclloXFZj5Dyeak"
 hosts = ["william", "janaline"]
 title = "Housing and cost of rent"
@@ -202,4 +203,5 @@ My name is William Sinclair.
 
 **Janaline Oh**<br>
 My name is Janaline Oh, and this is Why Can't They Just?
+
 

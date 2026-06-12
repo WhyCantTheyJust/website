@@ -1,7 +1,8 @@
 +++
 date = '2026-02-24'
-episode = "14"
-aliases = ["/14"]
+episode = "S1-14"
+slug = "one-nation-polls"
+aliases = ["/S1-14"]
 spotify = "2uOQIFPHZfXJMK4ZnrsYTy"
 hosts = ["william", "janaline"]
 title = "One Nation overtakes the Coalition in the polls"
@@ -184,4 +185,6 @@ That was this week's episode of Why Can't They Just, recorded on the 15th of Feb
 
 **Janaline Oh**<br>
 My name is Janaline Oh, and this is Why Can't They Just?
+
+
 

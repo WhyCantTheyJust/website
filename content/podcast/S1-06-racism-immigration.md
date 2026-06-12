@@ -1,7 +1,8 @@
 +++
 date = '2025-10-06'
-episode = "6"
-aliases = ["/6"]
+episode = "S1-06"
+slug = "racism-immigration"
+aliases = ["/S1-06"]
 spotify = "3CRAGHXRsEBVRKFTDfq0mA"
 hosts = ["callum", "janaline"]
 title = "Racism and immigration"
@@ -185,4 +186,6 @@ That was Why Can't They Just, and the music is called Insurrection, written by P
 
 **Janaline Oh**<br>
 My name is Janaline Oh and this is Why Can't They Just.
+
+
 

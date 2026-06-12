@@ -1,7 +1,8 @@
 +++
 date = '2025-06-08'
-episode = "1"
-aliases = ["/1"]
+episode = "S1-01"
+slug = "climate"
+aliases = ["/S1-01"]
 spotify = "1QgFoOoEZ0aC4j59E8UoOt"
 hosts = ["william", "janaline"]
 title = "Why can't they just stop new coal and gas?"

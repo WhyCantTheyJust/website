@@ -1,7 +1,8 @@
 +++
 date = '2025-07-01'
-episode = "2"
-aliases = ["/2"]
+episode = "S1-02"
+slug = "iran-nuclear-2025"
+aliases = ["/S1-02"]
 spotify = "4i0aY0EEmnRibU0y0mm61x"
 hosts = ["william", "janaline"]
 title = "Iran, nuclear proliferation and international law"
@@ -292,4 +293,5 @@ I'm William Sinclair.
 
 **Janaline Oh**<br>
 I'm Janaline Oh, and this is Why Can't They Just.
+
 

@@ -1,7 +1,8 @@
 +++
 date = '2025-08-30'
-episode = "4"
-aliases = ["/4"]
+episode = "S1-04"
+slug = "environment-law-reform"
+aliases = ["/S1-04"]
 spotify = "0dmqUDSEwJNOWgw86EKpP6"
 hosts = ["william", "janaline"]
 title = "Environmental law reform"
@@ -167,4 +168,5 @@ My name is William Sinclair.
 
 **Janaline Oh**<br>
 I'm Janaline Oh, and this is Why Can't They Just.
+
 
