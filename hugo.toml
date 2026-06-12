@@ -54,31 +54,6 @@ description = "A podcast aimed at delving into Australian politics and policy wi
     instagram = "whycanttheyjust"
     youtube = "@Whycanttheyjust"
 
-  [params.authors]
-    [params.authors.Janaline]
-      name	= "Janaline Oh"
-      thumbnail = "img/host/matt.png"
-      bio = "Janaline Oh is blah lbha blah."
-      [params.authors.Janaline.social]
-        facebook = "matt.stratton"
-        twitter = "mattstratton"
-        linkedin = "mattstratton"
-        homepage = "https://www.mattstratton.io"
-        instagram = "instagram"
-        youtube = "mattstratton"
-    [params.authors.Glenn]
-			name = "Glenn Davidson"
-			thumbnail = "img/host/trevor.jpg"
-			bio = ""
-				[params.authors.Glenn.social]
-					twitter = "trevorghess"
-    [params.authors.Luke]
-      name = "Luke Robertson"
-      thumbnail = "img/host/bridget.jpg"
-      bio = ""
-      [params.authors.Luke.social]
-        twitter = "bridgetkromhout"
-
     [params.links]
       [params.links.ado]
         name = "Arrested DevOps"

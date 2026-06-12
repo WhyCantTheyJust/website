@@ -8,10 +8,10 @@
               </p>
         </div>
 
-        {{ range $p:= $.Site.Params.authors }}
+        {{ range where site.RegularPages "Type" "host" }}
         <div class="col-lg-2">
-            <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
-            <p class="text-center text-capitalize">{{ $p.name }}</p>
+            <img alt="{{ .Title }}" src="{{ .Params.Thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
+            <p class="text-center text-capitalize">{{ .Title }}</p>
         </div>
         {{ end }}
 

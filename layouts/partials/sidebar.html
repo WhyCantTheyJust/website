@@ -133,7 +133,7 @@
     <div class="row">
       <div class="col-md-12">
         <h3 class="sidebar_headline text-uppercase">
-        {{ if eq (len $.Site.Params.authors) 1 }}
+        {{ if eq (len (where site.RegularPages "Type" "host")) 1 }}
           Host
         {{ else }}
           Hosts
@@ -143,10 +143,10 @@
     <div class="row">
       <div class = "col-md-12">
         <div class="sidebar_content">
-          {{ range $p:= $.Site.Params.authors }}
-            <img alt = "{{ $p.name }}" src = "{{ $p.thumbnail | absURL }}" class="img-fluid">
+          {{ range where site.RegularPages "Type" "host" }}
+            <img alt="{{ .Title }}" src="{{ .Params.Thumbnail | absURL }}" class="img-fluid">
             <br />
-            {{ $p.name }}
+            {{ .Title }}
           {{ end }}
         </div>
       </div>
