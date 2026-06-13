@@ -16,6 +16,10 @@ pagination.pagerSize = "9"
     identifier = "podcast"
     url = "/podcast"
 
+[[Menu.Main]]
+    name = "Who we are"
+    identifier = "zhosts"
+    url = "/host"
 
 [params]
 googleAnalytics_UA = ""
