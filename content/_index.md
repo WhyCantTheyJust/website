@@ -1,5 +1,5 @@
 +++
-title = "Policy for People"
+title = "Policy 4 People"
 org_image = "img/policy-for-people.png"
 +++
 
