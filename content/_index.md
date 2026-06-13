@@ -3,7 +3,7 @@ title = "Policy for People"
 org_image = "img/policy-for-people.png"
 +++
 
-At Policy 4 People, we think government has a role in improving people's lives, and a responsibility to do so in a way that is both effective and fair. We despair of the lack of depth in policy slogans and political commentary and so we are seeking to look at important policies and unpack what they really mean, and what their consequences are for you.
+At Policy 4 People, we think government has a role in improving people's lives, and a responsibility to do so in a way that is both effective and fair. We are dismayed by the lack of depth in policy slogans and political commentary, and so we look at important policies and unpack what they really mean, and what their consequences are for real people.
 
 As we are based in Australia, our focus is very much on Australian government policy at a national level, but we also have thoughts on foreign policy and events around the world.
 
