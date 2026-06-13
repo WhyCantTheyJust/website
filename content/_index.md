@@ -7,4 +7,4 @@ At Policy 4 People, we think government has a role in improving people's lives, 
 
 As we are based in Australia, our focus is very much on Australian government policy at a national level, but we also have thoughts on foreign policy and events around the world.
 
-Our podcast, Why Can't They Just?, looks beyond the slogans and, while we consider the political context, our focus is firmly on the policies and what they will deliver.
+Our podcast, [Why Can't They Just?](podcast/), looks beyond the slogans and, while we consider the political context, our focus is firmly on the policies and what they will deliver.
