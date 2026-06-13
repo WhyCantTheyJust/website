@@ -74,10 +74,6 @@
           <div class = "d-flex p-2 subscribe_buttons col-md-auto">
             <a class="btn btn-default" href="{{ .Site.Params.rss_subscribe }}"><i class="fa fa-rss"></i>&nbsp;Podcast RSS</a>
           </div>
-        {{ else }}
-          <div class = "d-flex p-2 subscribe_buttons col-md-auto">
-            <a class="btn btn-default" href="{{"episode/index.xml" | absURL }}"><i class="fa fa-rss"></i>&nbsp;Podcast RSS</a>
-          </div>
         {{ end }}
         {{ $blog := (where .Site.RegularPages "Section" "==" "blog") }}
         {{ if ge (len $blog) 1 }}
