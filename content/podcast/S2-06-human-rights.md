@@ -26,10 +26,8 @@ Courtesy of Do Right Music Inc.
 
 ## Transcript
 
-# Episode on human rights
 [link to podcast](https://open.spotify.com/episode/1U8fCyuORxAQgadD3QpLZ1?si=gQwHj9JxReu4D4es7i2-EA) 
 
-## Transcript
 11 June 2026
 
 **Luke**<br> 
