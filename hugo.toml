@@ -1,6 +1,6 @@
 baseURL = 'https://whycanttheyjust.com.au/'
 locale = 'en-us'
-title = "Policy for People"
+title = "Policy 4 People"
 theme = 'castanet'
 pagination.pagerSize = "9"
 
