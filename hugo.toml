@@ -22,7 +22,7 @@ pagination.pagerSize = "9"
     url = "/host"
 
 [params]
-googleAnalytics_UA = ""
+googleAnalytics_UA = "G-2NW5KRRJHP"
 mainSections = ["podcast"]
 episode_number_style  = "brackets"
 episode_number_prefix = ""
