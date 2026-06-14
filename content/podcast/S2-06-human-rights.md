@@ -26,6 +26,12 @@ Courtesy of Do Right Music Inc.
 
 ## Transcript
 
+# Episode on human rights
+[link to podcast](https://open.spotify.com/episode/1U8fCyuORxAQgadD3QpLZ1?si=gQwHj9JxReu4D4es7i2-EA) 
+
+## Transcript
+11 June 2026
+
 **Luke**<br> 
 Welcome to another episode of Why Can't They Just, looking at politics, policy and getting stuff done. I’m Luke Robertson, I’m a conservation biology and environmental policy student in Sydney, as well as a member of the Labor Party and LEAN.
 
@@ -50,7 +56,9 @@ If their mothers are found to have committed crimes, then they should go through
 
 The worst terrorist attack on Australian soil occurred in Bondi in December 2025, when fifteen people were killed by two gunmen. That was an absolutely shocking and tragic event. The worst terrorist attack committed against Australians was in Bali in 2012, when over 200 people were killed when a nightclub was bombed. That was a deliberate attack against Australians. So stopping people from coming to Australia doesn’t necessarily stop them from hurting Australians.
 
-The other thing is that this idea of conditional citizenship is also highly problematic. Why is that? Well, because if you’re an Australian citizen, you’re an Australian citizen. 
+So aside from the national security case, I also have a lot of issues with this idea of conditional citizenship, that somehow you can only remain a citizen if you behave in a certain way. I think that fundamentally flies in the face of what it means to be a citizen, and there is also a very clear double standard that is being applied here. So after the Bondi terrorist attacks, and I think we’ve discussed this on an earlier episode, one of the really unfortunate things about the narrative around it was that it immediately went to the citizenship status of the alleged perpetrators. Now one of them was an Australian citizen, born in Australia, has only ever been Australian. The other one was a migrant.
+
+But I would contrast that narrative with the Christchurch terrorist attacks in New Zealand in 2019, which in some ways were quite similar. A gunman went to a couple of places of worship in this case, gunned down 51 people at prayer, and nobody questioned that person’s citizenship. That person is an Australian, went to New Zealand, committed this terrible act of violence, and I’ve never heard anybody suggest that that person should have their citizenship stripped from them. I mean, as it happens, it is highly unlikely they will have the opportunity to come back to Australia, because they are currently serving a life sentence in New Zealand. But I find it troubling that there does seem to be a double standard applied to people depending on where they, or their ancestors, came from, as to whether them committing some horrible crime generates this debate about their right to hold Australian citizenship.
 
 I think it is very reasonable for the Australian government, as it does, to require people wanting to come to Australia on visas to agree to uphold Australian values, which are listed on the Department of Home Affairs website and which talk about things like compassion, and non-discrimination and supporting democratic values. But, once you become an Australian citizen, you are an Australian citizen. It doesn’t matter where you come from. It doesn’t matter what your ethnic background is. And it doesn’t matter what anybody else who shares that ethnic background, language, history, or cultural background or religion ever does. That should not affect your right to be an Australian citizen.
 
@@ -71,6 +79,12 @@ So Janaline, you’ve talked about the history of human rights. But living in Au
 Democracy is obviously very important. Democratic systems are definitely better historically at delivering rights to their people. But democracy is not enough to protect human rights. Democracy is essentially a way of organising yourself politically so that the wishes and the priorities of the majority can be reflected in the policies and decisions of their government. Now that is really important to do in terms of things like budget allocations, in terms of the relative weight given to social services, or national defence. It’s not enough to protect human rights. Why is that? Because it doesn’t necessarily protect unpopular minorities.
 
 During the 2010s, in Myanmar, where there was a concerted, government-endorsed campaign of persecution against the Rohingya Muslim minority, that was supported by around 80% of the population. The persecution was horrendous. People were killed, tortured, raped, and millions of them fled.
+
+And that’s just one example of where majorities of people in democracies have supported some pretty appalling atrocities. I mean, Nazi Germany in the 1930s was a democracy and people were generally ok with the persecution of Jews. The treatment of Roma in a number of democratic countries in central Europe is pretty awful and has the acquiescence of a majority of people. There are lots and lots of examples of where democracy in itself has not protected unpopular minorities. 
+
+And this the reason that countries like the US, that came into being through rebellion against a colonial power, have tended to create constitutions embedding some pretty robust human rights protections that are then the preserve of the courts, and not the majority elected government, to implement and to enforce. And the reason for that, I think, is a recognition that democratic systems are not going to protect everyone.
+
+And we see now the rise of populist leaders who are literally making their political careers off demonising unpopular minorities, or trying to make certain groups in society unpopular, so that they can then demonise them, blame them for stuff and use that to generate political support. I feel like One Nation is doing exactly that in Australia, and it troubles me that the Liberal and National Parties, far from pushing back robustly, seem to be buying into the narrative.
 
 **Luke**<br> 
 Yes I certainly don’t think democracy inherently protects minorities, particularly, as you said, many who are deemed unpopular by the majority. I think that certainly exists throughout history, with the treatment of First Nations peoples here, in Canada, in the US, and of course the treatment of black Americans in the United States were justified with the notion of democracy. I think we’re still seeing that in the modern day, such as in India, with greater persecution of the Muslim minority and of course in the Middle East with the treatment of Palestinians in the West Bank and Gaza.
@@ -110,9 +124,13 @@ Those same themes are ringing true in the rhetoric of both the Coalition and One
 **Janaline**<br> 
 So I think in terms of Australia, and the political debates, I think it is deeply worrying that we have, not just One Nation basically saying that an entire religion should be banned from Australia, but we also have the Leader of the Opposition, the leader of the so-called mainstream major party, the Liberal Party, which has governed Australia for more than half of the last 80 years, I really think it is worrying that they are talking about judging people from where they come from. I mean it is barely disguised racist dog-whistling. For Angus Taylor to say ‘well, I think we should discriminate on the basis of adherence to Australian values, and I think we can assume that people who come from liberal democracies are more likely to adhere to those values than people who don’t’, than people who come from so-called ‘bad countries’, and he actually name-checked Iran.
 
-Now, most Iranian Australians that I know are deeply committed to democracy and, in fact, the experience of their compatriots in Iran has only reinforced their commitment to democracy and human rights, because they have seen and they have deep knowledge of what happens when those rights are violated.
+Now, most Iranian Australians that I know are deeply committed to democracy and, in fact, the experience of their compatriots in Iran has only reinforced their commitment to democracy and human rights, because they have seen and they have deep knowledge of what happens when those rights are violated.  
 
-I feel like, talking about people in that very collectivist way actually seriously does violate this idea that human rights are individual. If you have someone who is now, apparently, the most popular politician in Australia, saying ‘there are no good Muslims’, that is a pretty big violation of the Australian values that are on the Department of Home Affairs website, that explicitly says that we do not discriminate on the basis of ethnic origin or religion.
+And that’s just people from Iran. I mean, honestly, I feel like people who have lived under authoritarian regimes, and particularly people who still have families and loved ones who still live under those authoritarian regimes, have a much much greater appreciation of democratic values, and the value of having a government and a system that respects and upholds human rights, than people who come from liberal democracies, where I feel like, they really do take that kind of stuff for granted. I think in Australia, a lot of people really take for granted the fact that every single Australian citizen has the right to vote; has the right to have a say in who governs them, who represents them in Parliament. I mean this is a really valuable thing that people have literally laid down their lives to achieve in their own countries. 
+
+The conflation of democratic values with living under a liberal democracy is entirely misplaced. But honestly, I come back to the sense that it is a bit of racist dog-whistling. Because who are the democratic countries that we’re talking about, and who are the authoritarian regimes that we are talking about? I feel like this is pretty thinly disguised racism and I think we should call it out.
+
+I also feel like, talking about people in that very collectivist way actually seriously does violate this idea that human rights are individual. If you have someone who is now, apparently, the most popular politician in Australia, saying ‘there are no good Muslims’, that is a pretty big violation of the Australian values that are on the Department of Home Affairs website, that explicitly says that we do not discriminate on the basis of ethnic origin or religion.
 
 So I really would like some of those political leaders who are saying these things, who are demonising whole sections of the Australian community, and who, at the same time, are saying we should be withdrawing the citizenship of people who don’t subscribe to Australian values - I wish they would look very closely at the Australian values articulated on the Department of Home Affairs website and genuinely interrogate whether they themselves are adhering to those values.
 
@@ -127,6 +145,18 @@ You know, in the Vietnam War, US troops called the enemy Viet Cong ‘goons’ t
 **Luke**<br> 
 Yeah, there’s a good episode of Black Mirror, I’m not sure if you’ve seen it, called Men Against Fire, where the premise is that the army, I think the American army is in a war and they’re wearing these glasses that make them see the people they’re killing as aliens. They refer to them as roaches. And then when one of their glasses breaks and they take them off and see that they’re just humans and they, they physically stop themselves from, you know, going out and killing those people.
 
+**Janaline**<br> 
+Yeah, it is pretty terrifying what can happen when people stop seeing other people as human. And again, I mean, without you know wishing to be too boring about coming back to the Universal Declaration of Human Rights, I mean the whole point of ‘human rights are individual’ is that it really pushes back against this quite human tendency to see other people as part of a group, and particularly if it’s an ‘other’ group, as in, a group that you don’t identify with. It makes it much easier to do that demonisation, dehumanisation, and therefore justify pretty awful acts against those people. Whereas, if you really internalise the idea that human rights are individual, then it means that every single person has to be seen as an individual, as a human, and that really affects the way in which you can deal with them. 
+
+Because it stops being ‘I’m dealing with this unit that belongs to this “other” group that I don’t identify with’, and it becomes ‘I am dealing with another person who is human like me’, who has hopes and aspirations, who has people they love, who has people who love them, who had a mum and dad, and was a child. And I think once you start looking at people as individuals and not as members of some ‘other’ group, it becomes very very difficult to treat them really badly. And that’s one of the really important innovations of the Universal Declaration of Human Rights: the universality and individuality of human rights.
+
+And again at the risk of being really boring about this, it just really underlines that you can become an unpopular minority at any time. There may be some characteristic of yours, you may be accused of doing something that you may or may not have actually done, that leads to you having your rights taken away from you. It is really really important that human rights are applied to everybody because that is the only way that we can stop them from being withdrawn from everybody.
+
+One of the things that the Chinese Communist Party does when it sentences people to death for serious crimes - so they have gone through a court process, they have been convicted of whatever it is. Death penalty cases usually apply to very serious drug offences, or murder, or treason, or crimes against the State, which are obviously a bit more contentious. But one of the really awful parts of the punishment is what they call the withdrawal of the defendant’s civil and political rights. Now if you’re being sentenced to death and you’re about to be killed by the State, then maybe it doesn’t really matter if you’ve had your civil and political rights withdrawn, but it really kind of underlines the importance of those rights in entitling you to things like due process, to entitling you to things like freedom from torture. It also means that you no longer have any property, so presumably whatever you own cannot then be passed to whomever in your family survives you. It’s a pretty brutal punishment, really, and kind of one step worse than actually being sentenced to death. You are not only being deprived of your life by the State, but the State is also in some ways also erasing your humanity.
+
+And I feel like that is just a really really important thing that we, in a liberal democracy like Australia, need to uphold. We need to uphold the humanity of every single person.
+
+**Luke**<br> 
 That does segue to a good poem, by Martin Niemoeller, who was himself a clergyman during WW2, and is condemning himself and other German intellectuals and clergymen in allowing and being complicit in the Nazi’s rise to power. 
 
 First they came for the communists, and I did not speak out, because I was not a communist.
@@ -146,7 +176,11 @@ Now, that can be waived, if a diplomat comes into your country and murders someo
 
 So it’s really important that even people accused of the worst possible crimes actually have these rights. Because you need to be sure that you’re punishing the right person. And that’s not to say they shouldn’t be punished. They absolutely should. There is a criminal justice system for a reason. And when I say that I should have the right as an Australian citizen to be a psychopath or to commit horrible crimes and still be an Australian citizen, I’m not saying that that means that being a psychopath or committing horrible crimes is a thing that is ok and that I shouldn’t be punished for it. I absolutely should. But I should be punished through the criminal justice system. I should not be punished by having my fundamental human rights withdrawn.
 
-Because fundamental human rights doesn’t mean that you can’t be punished for doing stuff, it just means that you have to have been put through some kind of process that establishes that it was actually you.
+Because fundamental human rights doesn’t mean that you can’t be punished for doing stuff, it just means that you have to have been put through some kind of process that establishes that it was actually you. It also means that punishment needs to be reasonable, and to fit the crime. Also within the concept of due process are things like freedom from torture. Things like not being coerced into saying things that you may not want to say, or you may not mean, or may not even be true.
+
+So, I mean, due process sounds really boring but it’s actually tremendously important to ensure that government agencies, and government actors, and police forces and other people who enforce the law pay attention to, not only the needs of justice, but that the needs of justice include the rights of the person being accused. And the needs of justice also mean that that person needs to be treated with dignity and respect.
+
+And again, it doesn’t mean they’re not punished: many of them deserve to be punished. But it means that the process towards deciding on that punishment and implementing that punishment preserves their basic rights as human beings.
 
 **Luke**<br> 
 Well I think all we’ve discussed today is incredibly important, particularly given the historical context around which these concepts are built. I think it’s important that we treat these discussions for what they are, and do not allow the sort of dog-whistling and racist rhetoric that comes from a lot of these people so that we do not fall down that same slope that has seen the persecution of so many minorities around the world.
@@ -161,4 +195,3 @@ Well that wraps up another episode of Why Can’t They Just? Our theme music for
 
 **Janaline**<br> 
 I’m Janaline Oh, and this is Why Can’t They Just?
-
