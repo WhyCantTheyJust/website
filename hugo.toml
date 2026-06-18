@@ -22,7 +22,7 @@ pagination.pagerSize = "9"
     url = "/host"
 
 [params]
-googleAnalytics_UA = "G-2NW5KRRJHP"
+googleAnalytics_UA = ""
 mainSections = ["podcast"]
 episode_number_style  = "brackets"
 episode_number_prefix = ""
@@ -62,6 +62,9 @@ disqusShortname = ""
       [params.links.sdt]
         name = "Software Defined Talk"
         url = "https://cote.io/podcasts/sdt/"
+
+[services.googleAnalytics]
+ID = "G-2NW5KRRJHP"
 
 [markup.goldmark.renderer]
     unsafe = true
