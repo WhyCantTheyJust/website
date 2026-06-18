@@ -6,8 +6,7 @@ aliases = ["/S2-07"]
 spotify = "7iswfxZhqNQABHjkCpbK7B"
 hosts = ["janaline", "glenn", "luke"]
 title = "Why can't we have publicly owned renewable energy?"
-Description = "Renewable energy is really taking off in Australia, but is it fast enough to meet the Government's target of  82% by 2030? The ⁠McKell Institute and the Electrical Trades Union⁠ have recently released a report calling for a publicly-owned renewable energy entity to provide affordable, reliable renewable electricity to large industrial projects to accelerate the transition of Australia's industrial and export base from fossil fuels to clean energy. 
-Janaline, Luke and Glenn discuss the pros and cons of publicly owned energy generation, and the opportunities it can present for Australia's industrial future. Spoiler alert - we think this is a terrific proposal."
+Description = "Renewable energy is really taking off in Australia, but is it fast enough to meet the Government's target of  82% by 2030? The ⁠McKell Institute and the Electrical Trades Union⁠ have recently released a report calling for a publicly-owned renewable energy entity to provide affordable, reliable renewable electricity to large industrial projects to accelerate the transition of Australia's industrial and export base from fossil fuels to clean energy. Janaline, Luke and Glenn discuss the pros and cons of publicly owned energy generation, and the opportunities it can present for Australia's industrial future. Spoiler alert - we think this is a terrific proposal."
 episode_image = ""
 explicit = "no"
 author = "Janaline"
