@@ -29,6 +29,11 @@
               {{ end }}
             {{ end }}
           {{end}}
+          {{ if (isset .Site.Params.social "patreon" ) }}
+            <li class="nav-item">
+              <a href="{{ .Site.Params.social.patreon }}" class="nav-link"><i class="fab fa-patreon"></i> Support us on Patreon</a>
+            </li>
+          {{ end }}
         </ul>
 
       <ul class="navbar-nav ml-auto">
