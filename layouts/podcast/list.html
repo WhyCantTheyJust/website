@@ -2,6 +2,15 @@
 
 {{ partial "jumbotron.html" . }}
 
+{{ with site.Taxonomies.tags }}
+<div class="container-fluid grid_container" style="padding-bottom: 1rem;">
+  <p style="margin-bottom: 0.4rem; color: #652d91; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em;">Browse by topic</p>
+  {{ range .Alphabetical }}
+    <a href="{{ .Page.Permalink }}" style="display: inline-block; margin: 0.2rem 0.3rem 0.2rem 0; padding: 0.2rem 0.65rem; border: 1px solid #652d91; border-radius: 1rem; color: #652d91; font-size: 0.875rem; text-decoration: none;">{{ .Page.Title }}</a>
+  {{ end }}
+</div>
+{{ end }}
+
 <section class="episode-list">
   {{ range where site.RegularPages "Type" "podcast" }}
   <div class="row homepage_episode_row">

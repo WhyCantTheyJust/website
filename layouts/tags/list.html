@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<div class="row">
+  <div class="col-md-12">
+    <h1>Tag: {{ .Title }}</h1>
+  </div>
+</div>
+
+<section class="episode-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="row homepage_episode_row">
+    <div class="col-md-12">
+      <h3><a href="{{ .Permalink }}" class="row_latest_episode_title">{{ .Title }}</a>
+        {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}
+          [{{ .Params.episode }}]
+        {{ end }}
+      </h3>
+      <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+      <p class="homepage_episode_description">{{ .Description | markdownify }}</p>
+    </div>
+  </div>
+  {{ end }}
+</section>
+
+{{ end }}
