@@ -11,7 +11,7 @@ episode_image = ""
 explicit = "no"
 author = "Janaline"
 guests = []
-tags = []
+tags = ["social policy", "social cohesion", "human rights", "free speech", "democracy"]
 draft = false
 +++
 

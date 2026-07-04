@@ -11,7 +11,7 @@ episode_image = ""
 explicit = "no"
 author = "Janaline"
 guests = []
-tags = []
+tags = ["Australian politics", "inequality", "democracy", "migration", "racism"]
 draft = false
 +++
 

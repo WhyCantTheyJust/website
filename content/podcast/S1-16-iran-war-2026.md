@@ -11,7 +11,7 @@ episode_image = ""
 explicit = "no"
 author = "Janaline"
 guests = []
-tags = ["US alliance", "defence", "international law"]
+tags = ["US alliance", "defence", "international law", "foreign policy"]
 draft = false
 +++
 
