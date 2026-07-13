@@ -176,7 +176,13 @@ I think it will actually flip the incentive for the private providers from tryin
 So I think what the government should aspire to is to leave as its legacy a system of well-regulated, well-run child care centres, that is delivered on a model that gives parents a lot of choice, but which also provides that baseline public service that delivers early childhood education in a similar way, and with similarly structured incentives to the school education system.
 
 **Glenn**<br> 
-That wraps another episode of Why Can’t They Just? Our theme music for this podcast is a piece called Insurrection by Pierre Chrétien, performed by the Soul Jazz Orchestra, courtesy of Do Right Music Inc. I’m Glenn Davidson.
+That was another episode of Why Can’t They Just? The piece that we use for our theme music for this podcast is a piece called Insurrection by Pierre Chrétien, performed by the Soul Jazz Orchestra, courtesy of Do Right Music Inc. 
+
+**Janaline**<br> 
+You can also hear us on Canberra community radio, 2XX FM 98.3 on Tuesdays between 6 and 7, or via 2XXfm.org.au. If you like our work, consider supporting us on Patreon, via our website whycanttheyjust.com.au.
+
+**Glenn**<br> 
+I’m Glenn Davidson.
 
 **Luke**<br>
 I’m Luke Robertson.
