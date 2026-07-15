@@ -5,7 +5,7 @@ slug = "childcare"
 aliases = ["/S2-10"]
 spotify = "44O1gaHRgYcj6Q0AdvaRqa"
 hosts = ["janaline", "glenn", "luke"]
-title = "Is child care working in Australia? And why can't they just make it high quality and universal?"
+title = "Is child care working in Australia?"
 Description = "Janaline, Luke and Glenn look at the history of child care in Australia and ask why you might want people to be qualified to look after your children. It won't surprise anyone that we disagree that mothers should just be made to stay home to look after their children (not least because it means a lot of women just won't have them). We also look at how child care is funded and delivered and make the case for a public option, and how to design incentives for the industry to focus on the welfare of children rather than the welfare of shareholders."
 episode_image = ""
 explicit = "no"
@@ -28,7 +28,7 @@ Courtesy of Do Right Music Inc.
 
 ## Transcript
 
-[link to podcast](https://open.spotify.com/episode/44O1gaHRgYcj6Q0AdvaRqa?si=LvTTJ_PGTUWV7zPTfHPXCw) 
+[link to podcast](https://open.spotify.com/episode/44O1gaHRgYcj6Q0AdvaRqa?si=QAo2XwYyRQqS0tfvDczcnw) 
 
 15 July 2026
 
