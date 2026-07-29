@@ -1,0 +1,188 @@
++++
+date = '2026-07-22'
+episode = "S2-11"
+slug = "agedcare"
+aliases = ["/S2-11"]
+spotify = "1dAUnhnbsj5t6QxPlnFvHt"
+hosts = ["janaline", "glenn"]
+title = "Why can't they just fix aged care?"
+Description = "Janaline and Glenn look at the government's aged care reforms and ask whether they will be sufficient to ensure the system is sustainable in the future, especially given the rate at which Australia's population is ageing. And given the devastating findings of the Aged Care Royal Commission, how does the government ensure that aged care delivers high quality outcomes for people to live in dignity and comfort?"
+episode_image = ""
+explicit = "no"
+author = "Janaline"
+guests = []
+tags = ["social policy"]
+draft = false
++++
+
+Please leave a comment, particularly if you have your own "Why can't they just..." question, or email us at `whycanttheyjust@gmail.com`. We'd love to hear from you.
+
+Find out more about us and how you can support us at ⁠⁠[⁠https://whycanttheyjust.com.au/⁠](⁠https://whycanttheyjust.com.au/)⁠, which includes a link to our Patreon site where you can sign up for exclusive content.
+
+Please also feel free to rate and review us, as it does help people to find us.
+
+Music: "Insurrection"\
+Written by Pierre Chrétien\
+Performed by the Soul Jazz Orchestra\
+Courtesy of Do Right Music Inc.
+
+## Transcript
+
+[link to podcast](https://open.spotify.com/episode/44O1gaHRgYcj6Q0AdvaRqa?si=QAo2XwYyRQqS0tfvDczcnw) 
+
+22 July 2026
+
+**Glenn**<br> 
+Welcome to another episode of Why Can't They Just, a podcast about politics, policy and getting stuff done. I'm Glenn Davidson and I'm a member of the Labor Party.
+
+**Janaline**<br> 
+I'm Janaline Oh, I’m also a member of the Labor Party. I’m a former diplomat and a climate, environment and anti-racism activist.
+
+**Janaline**<br> 
+Before we start, I would like to acknowledge that Glenn and I are recording this on the unceded lands of First Nations people in Australia, recognising that sovereignty was never ceded, we pay our respects to their Elders, past and present, and extend those respects to any First Nations listeners that we have today.
+
+**Glenn**<br> 
+Over the last couple of weeks, we’ve been talking about a number of aspects of the care economy. We spoke about the National Disability Insurance Scheme, and last episode, we talked about child care policy and some of the issues around that. Today we’re going to look at the other end of the spectrum and look at aged care policy. Now aged care today is very different to what it was in previous decades.
+
+Institutionalised aged care only became a feature after World War II, because previously care had been family-based or provided by charities. There were hostels for those who only needed low care and, for those who needed more care than could be provided by families, there were nursing homes, which met medical needs but offered little by way of lifestyle. Back in the early 1900s, life expectancy was around 55 years. But it had increased to around 66-67 by the mid-forties, so there were fewer older people around relative to the younger generation, which meant aged care was not as big an issue as it is now.
+
+But the implications of the increase in life expectancy over recent decades and the size of the baby boomer generation in particular led the Howard government to pass the Aged Care Act in 1997, which provided the beginnings of a market-based system, and introduced some accreditation and regulation frameworks. This was a major shift back then, that took aged care from being a welfare-based offering to a quasi-market-based system.
+
+Now Janaline, why did demography drive that change from a welfare-based approach to a market-based approach? What other options do you think the Howard government had available to it in 1997 to meet that demographic wave that was coming as those baby boomers approached older age?
+
+**Janaline**<br> 
+I reckon the Howard government had a number of options. I think the choice of the market-based option was not demographically driven, I think it was ideologically driven. The Howard government took a market-based approach to a lot of areas of social policy that I think a Labor government potentially would have taken a different approach to. So in both aged care and child care, as we discussed last time, the choice was to throw the market open to private providers, and provide a sort of thin layer of government regulation and accreditation over it, to maintain standards.
+
+This is not surprising: the Howard government was an unabashedly liberal, free market supporting government, so it is, you know, an entirely legitimate choice for a Liberal government to choose market-based options. Has it worked? I think one of the issues with the market-based option is that aged care and child care actually affect people’s lives.
+
+So markets work when you’re talking about, I don’t know, buying food or getting haircuts or fixing your car, but if you’re in a system where it’s actually kind of controlling your life, then the market isn’t delivering.
+
+**Glenn**<br> 
+But the situation was that there was going to be a massive increase in the number of older people who are around, both because of the longer life expectancy of people that had happened over the last so many years, where it had gone from, as I mentioned earlier, around about 55 years in the early 1900s to in the 80s now. So there’s been like a thirty year increase in life expectancy and a lot of people are spending a much greater portion of their life in a post-work context, if you like. So they work through until they’re say 55 or 60 or 65 or whatever, but then might have another twenty-odd years plus of life, where they can look after themselves in part but, you know, as people get older, then they may need more care. And the number of people who are going to need that care increased substantially through the 80s, 90s and beyond. And the Howard government was looking at ‘well, how are we going to pay for this’ and so moved to this market-based approach, because, as you mention, it was an ideological thing. So there was this market-based approach that was introduced, rather than staying with a welfare-based approach that might have been the case if the Labor government was in power.
+
+**Janaline**<br> 
+I mean there was a real concern about the number of people who were going to need aged care. As you say, life expectancy, demographic change was important, but essentially, they moved aged care from the publicly subsidised nursing home model to, again, a kind of property development private equity model, where essentially aged care facilities were real estate developments with an added overlay of particular services for the residents. I think there was a legitimate concern about the cost to the government of just continuing to fund nursing homes. 
+
+I think an alternative approach could have been around means testing, it could have been around increased contributions from people who could afford it. And the approach that the Howard government took actually did do that. I mean, there is means testing for aged care, and there’s asset testing, importantly, so if you have significant assets then you get charged more for your aged care place, or you have to pay a larger bond, or - it varies from facility to facility.
+
+I think means testing is perfectly fair. I think it is perfectly reasonable to have asset testing. I think it is not unreasonable for people to contribute to their own care. I think the problem with the way in which the Howard government structured it was that, it took the focus away from ‘what is the best model to deliver dignity, care and a decent life for the people who are using this’, to a model of ‘what is the best way to fund this system that needs to deliver a service. And I think the model they chose has delivered very significant profits to the owners of the real estate, and maybe not necessarily led to the best care outcomes.
+
+**Glenn**<br> 
+That’s exactly right in terms of what has happened. And it’s not just us saying that: it’s a matter of fact, a matter of public record that by 2018, it was apparent that this system that had been put in place was not working as it should. The Royal Commission into Aged Care, Quality and Safety, which ran from 2018 to 2021, found neglect, underfunding and systemic failure, which had consequences for public trust. They’re pretty substantial failings when we’re talking about people’s quality of life, and in fact their life itself, as people were dying unnecessarily because of this neglect, underfunding and other short cuts that were being taken by entities that were seeking to make a profit first, and provide care for older people later.
+
+So Janaline, the arguments for moving to that, more of a market-based system, would have cited the benefits of competition, leading to higher standards and greater efficiency; those arguments always do. Yet the experience has shown, as proven by the Royal Commission, that the opposite, the exact opposite has occurred. There haven’t been higher standards or greater efficiencies. In fact, it’s been a disaster. Is this really just human error, or are there some aspects of our national community and life that just don’t lend themselves to market-based solutions?
+
+**Janaline**<br> 
+It’s not going to surprise anybody who heard what I had to say about child care to hear that I think there are just things that just cannot be left to the market. I mean, I think part of the problem is: what makes things work in a competitive market? The way that you succeed as a business in a competitive market, you minimise your costs to maximise your profits. If you’re looking after vulnerable people, then cutting your costs runs a very significant risk of reducing the quality of the life of the people that you’re supposed to be looking after. So how do they cut the costs? They reduce staffing numbers, they reduce the quality of the food.
+
+I think there are things that the market just doesn’t deliver well for, because cost efficiency in particular is not necessarily the best benchmark of quality care.
+
+**Glenn**<br> 
+I think that brings us to the obvious point that the Royal Commission found that by, you know, 2021, the system wasn’t working, it needed to change, and there needed to be something done differently.
+
+Now since coming to power in 2022, the Albanese government clearly had a huge job on its hands to fix a very much broken aged care system. Over the period of that Albanese government, they’ve introduced a large package of reforms directed at fixing the problems identified by the Aged Care Royal Commission, especially around quality, funding, workforce and accountability. They passed the new Aged Care Act in 2025 that changes the basis for aged care. That is a rights-based Act, with emphasis on dignity, choice, safety and control over care. And there is also stronger regulation and accountability. The government’s invested very heavily in this policy area, including for more support for aging at home, improving the wages of aged care workers, having a registered nurse available in aged care homes 24/7, specifying minimum care for residents, having ratings systems for homes, capping administration fees, simplifying access, providing new incentives for First Nations services, and more. An absolutely monumental job that they’ve taken on. In fact, their approach has been to rebuild the system from the ground up in the most comprehensive reform since the 1990s.
+
+So Janaline, what’s driving this increased emphasis on the home-based care component? And is that demand being met?
+
+**Janaline**<br> 
+I think what’s driven the focus on home-based care is twofold: one is, people prefer to be at home. Nobody really wants to go into an institution. Keeping people at home for longer basically respects their wishes. Secondly, it is a lot cheaper to look after people in their home. You don’t have all the infrastructure: the building, the electricity, the heating, the common meals. It is much much cheaper to deliver meals to people in the home, to have people come and clean their houses, to have them come regularly to look after them, than to put that person into an institutionalised facility. So there’s a cost issue.
+
+Is it working? I think the problem is, and this is the problem that, you know, comes back to the reason that the Howard government took this all very seriously in the 1990s, the problem is, the demand is greatly outstripping the budget. The government is trying to put in place measures to make that more efficient, to kind of fix the budgetary problems as well. That is difficult and it is controversial. 
+
+And I think some of the approaches that they’ve taken are quite sensible, so for example, they’re looking very seriously at the kinds of fees that providers are charging, because there have been instances where providers of aged care for people with government packages have been charging quite outrageous amounts of money: for cleaning services that somebody else might be paying $50 an hour for, these providers are charging $250 an hour because they know that it’s government subsidised. So the government cracking down on that kind of behaviour I think is very reasonable and widely supported.
+
+More controversial are the changes to the way in which eligibility for certain services is being determined. Now this is always going to be an incredibly difficult job, because people are going to want services that the government maybe feels it cannot afford to provide. One of the most controversial things that has happened is that it’s introduced this Integrated Assessment Tool, which is essentially a kind of automated tool so you plug in a bunch of data about what the needs are and the tool spits out what services you should get. Now unfortunately, in the real world, it is very difficult to condense people into a bunch of data points that you can feed into an algorithm and have it spit out a thing that is actually going to suit them. People are individual, they have specific needs, every case is going to be different.
+
+As with the NDIS, I think the key to this is going to be the capacity for some sort of human oversight and some sort of human judgement overlaid over the tool, so that every assessment actually takes into account the real individual needs of the person being assessed. That doesn’t mean that they’re going to get everything that they think they should, and that they want, but at least there is a degree of human oversight so it is not just being chewed through a mechanical algorithmic process, and there is a human available to make those individual judgements. And I think that is a critical issue across all government services that, particularly with the advent of artificial intelligence and increased sophistication in technological tools, that governments don’t fall into the trap of thinking that these can actually replace human judgement. And I think this government has a way to go to actually fully absorb that concept.
+
+**Glenn**<br> 
+If we take a little bit of a step back in terms of the process here, because it’s a very complex and has been somewhat of an opaque process, and having been sort of one step removed from it myself as I’ve had parents going through the home care and then the aged care facility process, I have a - a little bit more of an understanding of it than what I had previously. But for the benefit of those who are outside of that whole ecosystem, perhaps it’s useful just to step through just what is the process. And it all starts with this aged care assessment which, as you mention, has become a - more of an automated process at the moment with a whole range of issues, but until recently it was done by a person, an interview based assessment against a template, and people were assessed as either needing, you know, level one, two, three or four. 
+
+So level one might mean, you know, you qualify for, you know, a cleaner to come in once a fortnight; if you’re in a home with a yard, maybe to come in an mow the grass and perhaps either provide for, you know, meals on wheels, or one of the private providers that send pre-prepared meals around. So pretty low level care. So something that would be difficult for you to do if you were living in the home on your own without that assistance, but something that you don’t really need to move into an aged care facility for. And you’d be given a package on a budget. You didn’t actually get the dollars in your bank account, but you had a budget and a menu of items that you could choose from to spend. 
+
+And this is where the opportunity that you mention, Janaline, comes from for the overcharging. So whereas cleaning might normally be charged at $50 an hour, they’re charging $200 or $250 an hour. And with the number of old people who are trusting, that can be a bit of a problem: they’re ripe for exploitation.
+
+If your assessment went higher - your level two, three - you might qualify for some modifications in your home, you know, some rails in your bathroom or toilet or whatever, and perhaps some other mobility aids and so on to help you stay at home and perhaps get more carers coming in. Level four generally meant you needed to go into supported or assisted living in an aged care facility and the budget that went with each of those changed as you went up the level and you qualified for more.
+
+So there is that sort of structural problem, if you like, where you’ve got people who are responsible for managing their own budget but are susceptible to having to pay whatever the providers are doing.
+
+Now some of the providers were not-for-profit organisations and generally operated with integrity, and there were some that were for-profit and there was more scope there, as we’ve seen across other systems - child care, NDIS, wherever you’ve got a for-profit system, they’re looking to maximise their return in any way they can, and if you’ve got unscrupulous people there, there is the opportunity for exploitation. 
+
+And now we’ve moved to this automated model which, as you’re saying, makes these judgments, which can be problematic because everybody is an individual and they really do need to have some human care put into it.
+
+**Janaline**<br> 
+The home care system and the system of using private providers is probably essential: I don’t think government can employ all of those people as public servants to deliver that kind of service. I think as you said there is definitely a strong role for not-for-profit providers; they’re often religious-based organisations, or other social welfare organisations that do have a strong ethical basis and are providing good levels of care in a way that really does center the needs of the person receiving that care. I think there can be a role for for-profit provision of services, as long as it is very closely supervised and regulated. 
+
+And maybe the solution is that you have a not-for-profit provider managing the package. You contract one of the not-for-profit providers to manage the package, and they can then contract a private cleaner. I think there are ways of structuring the system so that you can get the benefit of for-profit companies or individuals delivering parts of the services, but you can also create frameworks so that the decisions around contracting those people and deciding whether they’re charging reasonable fees and whether they are appropriate and fit people to do those jobs is not the responsibility of individual families, who may not have the skills, the capacity, the knowledge, the language even, to make those judgements in their own best interests.
+
+**Glenn**<br> 
+Yes, that’s right and there are a number of those that I’ve seen that do that very well, and they’re the ones that recruit well and manage their staff well.
+
+In terms of, if you like, the top end of the aged care system, which is the supported care, living in an aged care facility, what might previously have been known as a nursing home, that funding model is based on government support and user contributions, it is means tested. I think it’s important to say that everybody can afford aged care if they need it: if all you’ve got is an old age pension, then the fee is 85% of the pension. If you’ve got more wealth, you know, more money and more assets, then you’re expected to make a contribution towards the cost of your care and of course, as your assets diminish, the fee that you’re paying is reduced.
+
+So, Janaline, do you think this is a fair and reasonable system and does it make the system sustainable into the future? Should it be means tested or should we just make aged care universally available?
+
+**Janaline**<br> 
+I think it should absolutely be means tested. I think there is no reason that people who can afford to pay for their own care should not pay for their own care. Because I mean this again gets to some of the issues that we’ve touched on previously around intergenerational inequity and wealth transfers. What else are they going to do with that money? Once you go into an aged care facility, it is highly unlikely you’re going to be paying for first class trips around the world. You’re not going to be buying a lot of stuff. What are you going to do with your money? You’re going to hand it on to your descendants, your children, your grandchildren. So, instead of encouraging those substantial intergenerational wealth transfers, I think it is perfectly reasonable for people who have those assets, who have that income, to pay for their own care. So I think, yes, a hundred percent, it should be means tested.
+
+Does that deliver a good system? I think it delivers a good system in terms of the funding side of it. Again, it doesn’t resolve the problem of private providers of aged care resorting to what, in another sector might be considered reasonable commercial measures to maximise profits, but in a sector that is looking at the care of vulnerable people, looks an awful lot like either cutting corners or engaging in unconscionable conduct to overcharge them. 
+
+And I’m thinking about recent press reports of, one of the big private providers is subject to a class action over an additional package where people would have to pay an extra monthly fee and they would get special food, or menu choices, they would get free wi-fi in their rooms, they would get, you know, cable TV packages. What the class action claims is that, firstly, people weren’t given a choice, as to whether they could choose not to have one of those packages: if they wanted to accept the place in the aged care facility, they were basically told they had to have this package. And a lot of the people who paid for these packages were not able to use them because their capacity to eat certain types of food was physically limited. They couldn’t take advantage of in-room internet and wi-fi because they weren’t able to manage devices. 
+
+That says to me that, yes, the means testing and the funding side of the package should, in theory, help to make the system more sustainable, because the government is only providing the essential part of what people need, to ensure that everybody has access to this service. But it doesn’t solve the problem of private providers resorting to all sorts of measures to maximise their profits. And I think that the profit motive in services that deal fundamentally with people’s welfare is highly problematic, because I don’t think it drives the right outcomes.
+
+**Glenn**<br> 
+As with most of these things, there’s no simple answers in this, it’s quite complex. I mean the principle that it should be means tested and, if you’ve got the means, then you should make a contribution to your aged care is reasonable, because it’s not a reasonable proposition to say the taxpayer should fund the inheritance to your children or grandchildren because you’re getting free aged care when you can afford to pay for it. That part’s pretty straightforward. This whole issue of additional fees and charges for, as you say, these lifestyle features, you know, a glass of wine with dinner, a bus trip once a week or other things, is a bit more problematic. Because there is that move, as you go through aged care, of moving from the lifestyle, resort style of aged care to the medically-assisted end of life period, and you shouldn’t be getting charged for things that you just cannot use.
+
+Now looking forward, Australia’s population is expected to grow to the low to mid thirty millions by 2050, which is not that far away. Most of that growth is going to come from migration rather than birth. There’ll also be a rapid growth in the number of people aged over 65, with people aged over 85 projected to double by the early 2040s as the Baby Boomer generation moves through. The oldest of the Baby Boomers is currently 81 and the youngest is 62. Life expectancy is continuing to increase as well, with more people living into their nineties and beyond, so the last of the Baby Boomers will be with us for thirty or more years, so well into the 2050s. And Australia will be significantly older on average. That will mean an inevitable further increase in demand for aged care and health services, as well as old age pensions.
+
+So Janaline, the Albanese government has sought to rebuild this whole system from the ground up. Are they setting us up for success in this area? And what are the indications that the reforms that they’ve introduced will work and that we won’t be in the same place in twenty years’ time as happened with the Howard government reforms that left us in a crisis by 2018?
+
+**Janaline**<br> 
+What the government really needs to focus on is what is a sustainable model for delivering high quality. Because that is the thing I think that was missing in the Howard reforms. The Howard reforms looked very much at ‘how do you ensure the financial sustainability of this’ and, I think, to some extent it was actually quite successful. It did limit the financial cost to the government of providing aged care by going with this privatised model. As the Aged Care Royal Commission demonstrated, it clearly did not deliver quality life outcomes for the people in the system. 
+
+And it was really starkly evident in the COVID years, where the death rates in aged care facilities that were privately run were absolutely horrifying.  And the best performing aged care facilities during that period were actually state government-run aged care facilities in regional Victoria, and the second best performers were the not-for-profit providers. So I think that really tells you something about how the profit motive is just not working for delivery of this particular type of service. 
+
+Now, what would be a solution? I think the government needs to focus very heavily on in-home care, while they can, at the sort of lower end of the care spectrum. And the other thing that I think the government needs to look at very seriously is encouraging healthier behaviour and looking at ways of generating better health outcomes throughout the population, because one of the things that will definitely bring down the costs of aged care in the future is to have healthier and more physically able older people. And that starts back in middle age; that starts with people exercising in their forties, and cutting down on tobacco and alcohol and living healthier lifestyles. 
+
+Now I’m not saying that the government should take over people’s lives and, you know, make them all vegan, far from it. That clearly isn’t going to work and, you know, it would just be a terrible assault on personal freedoms. But I think that there are things that public policy can do to help make it easier for people to make healthier lifestyle choices. And also investments in health care. Ensuring that people can get access to health care throughout their lives so that minor health problems don’t become significant health problems, is the kind of investment that could have massive social and public returns. So investing in preventative health care, investing in early intervention health care. Things like cancer screening, I think, can have a really big impact, because if you can prevent someone from developing a cancer, that is a massive saving to the public health system. And down the track, it is probably also going to be a saving in the aged care system because that person is probably going to need less care when they get older than if they’ve, you know, been through chemotherapy and survived.
+
+The government needs to take a holistic approach. I think in terms of aged care facilities, I mean, again, at the risk of being boring, you know we had this discussion in relation to child care, I really think we need to look at government-funded and government-run options for aged care facilities, again to provide that benchmark and that standard that can show what a good functioning aged care facility can do. And, as I said, the Victorian government actually has state-run aged care facilities, which did provide that benchmark and that standard and it was particularly evident during COVID.
+
+I mean they’re basically in regional areas and the reason that they are in regional areas is because the government felt it had to step in to ensure that there were facilities available to people in those areas and that they didn’t have to travel to Melbourne, away from their families and their support networks: they could stay in their communities. So I think geographic availability is also very important, because these facilities are expensive to build and they are expensive to run. And I think it is worth the government considering different models for delivering that service, particularly in under-served areas. 
+
+And another potential option that is being explored in, particularly in some regional areas, is the idea of having some sort of cooperative-based aged care facility, where members of the community actually get together to build, develop and run a cooperative-based aged care facility. So it sort of sits in a space that is between not-for-profit and for-profit: it is for-profit, but the profits are given back to the community because it’s the community that owns it. It’s not a real estate developer or a private equity company that owns the facility, it’s the local community through a cooperative model. I think that is a model that has worked for health centres in regional areas; it is one that is worth considering and exploring. Because again I think when you’re delivering these life-changing services to people, when you’re literally looking after them, you really need to look at what kind of incentives are going to deliver the best outcome. And I think the profit incentive is just going to deliver cost-cutting and profit-maximisation at the expense of care. And that has been amply demonstrated by the Aged Care Royal Commission.
+
+**Glenn**<br> 
+So they’re pretty critical points that you’ve just made, and we’ve touched on one of the other critical points but haven’t really talked about it yet, and that is workforce. Now aged care is very much a human endeavour, and people who are in, particularly aged care facilities, are totally reliant on their carers as well as the nursing staff that take care of medical issues. And that’s been an area that’s traditionally been fairly low paid and that’s created some issues again in terms of findings from the Aged Care Royal Commission. And it’s one of those other areas that the Albanese government has sought to address by looking to increase the rates of pay for aged care workers and provide more support to them, so that that workforce becomes valued as they should.
+
+What do you think still needs to be addressed in that area, Janaline? Where are we going to go from here in terms of the aged care workforce? 
+
+**Janaline**<br> 
+Well, I think it was very good to support significant pay increases for workers in aged care, because again it’s such an important job, and the idea that a lot of these people are sort of barely scraping minimum wage is not commensurate with the kind of responsibility and the level of care that we’re expecting of them in terms of looking after our parents and grandparents. I think paying aged care workers decent wages is an essential component in ensuring that the services they’re delivering are of a quality and at a standard that you would want for someone looking after your parents and grandparents. 
+
+I also think it is not sufficient. As I said, I think there is a structural problem in terms of the incentives for aged care facilities at the management level, where again maximising profit is not going to deliver the kind of services you need. So you need to have a well paid workforce. Apart from anything else, as with child care, if you pay people decent wages, then the chances are they will stick in the job. They will be able to afford to continue working there. And, as with child care, people form attachments to their carers. And it is very destabilising, especially, and I say this from personal experience, especially for people with dementia, who do not understand if somebody they’re familiar with, that they like, that has been there for, for them, a long time, suddenly disappears and they don’t see them again. So I think workforce turnover is an issue if you’re not paying people enough, because people just can’t afford to stay in those jobs. And again I think, you know, as with child care, a lot of people working in aged care do find it very rewarding and do love their jobs, and want to do a good job but they need to be able to pay their bills and they need to be able to afford to stay in that job.
+
+**Glenn**<br> 
+Yes, that is true. And I would add from my experience and what I’ve seen across a number of facilities, it is a very feminised workforce; it’s also a workforce that is very much populated by recent arrivals. So it just comes back to this whole issue of migration again, and, although this is not a discussion about migration, migration, you know, permeates everything that’s going on in our economy these days, and none more so than the care economy and none more so than the aged care sector. So I think people should be very conscious of that, that you’re more likely to have somebody who’s a recent arrival looking after you in your older age than not, so perhaps it’s a good thing to encourage them to be here, to welcome them to be here, to pay them well and to support them well in their role.
+
+I should also just offer the perspective that sending a parent or grandparent into aged care should not be a set and forget. There is still very much a role to play for family members, both in advocating for your parents and in engaging with the staff at the facilities to ensure that the care level is tailored to them and their needs and so on.
+
+Any final statements, Janaline, by way of a wrap up?
+
+**Janaline**<br>
+Aged care is such an important part of the society and the economy now. We do have an aging population and even though migration is helping to moderate that, because migrants do tend to be much younger, demography is against us. We are going to have an increasing proportion of older people in the economy. Those people are going to need to be supported. I mean I think people can now probably work for longer; I think health outcomes for people in their sixties and seventies in the current day and age are much much better than they would have been thirty or forty years ago. And that’s a good thing, and we should absolutely be encouraging people to continue working in the productive economy, and part of that is actually dealing with age-based discrimination in the workplace, so that where people want to work, I think they should absolutely be encouraged to.
+
+Having said that, aged care is going to be with us and there is going to be a growing need for it. Taking a holistic approach throughout society to look at preventative health care and making it easier for people to have healthier lifestyles, investing in in-home care where you can and for as long as you can. And investing in actually making those systems efficient and work well, and not leave the full burden of responsibility on individuals and families to make some of those decisions about whether someone is providing a good service for an affordable price, but actually helping them to do that, for example by developing frameworks where good not-for-profit providers deliver those services for them. And then up in the, sort of the higher end of the care spectrum, in your assisted living facilities, I think it is really really important for the government to look seriously at the incentives around how that care is provided. One of the things the government should consider is more public provision of aged care, as an option, not as the whole solution; more not-for-profit provision of aged care, but also a really good hard look at whether the profit motive is actually going to deliver the kind of care outcome that the society and families want.
+
+**Glenn**<br> 
+That was another episode of Why Can’t They Just? The theme music that we use for this podcast is a piece called Insurrection by Pierre Chrétien, performed by the Soul Jazz Orchestra, courtesy of Do Right Music Inc. 
+
+**Janaline**<br> 
+You can also hear us on Canberra community radio, 2XX FM 98.3 on Tuesdays between 6 and 7, or via 2XXfm.org.au. If you like our work, consider supporting us on Patreon, via our website whycanttheyjust.com.au.
+
+**Glenn**<br> 
+I’m Glenn Davidson.
+
+**Janaline**<br> 
+I’m Janaline Oh, and this is Why Can’t They Just?
