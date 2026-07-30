@@ -6,8 +6,7 @@ aliases = ["/S2-12"]
 spotify = "41hQ3lLEAvP5gTIErbjQsy"
 hosts = ["janaline", "glenn", "luke", "william"]
 title = "Is Labor too tame? In person at the ALP national conference"
-Description = "Janaline, Luke and Glenn are joined by former co-host William at the ALP National Conference in Adelaide, where they talk about how the policy sausage is made and debate the pros and cons of behind the scenes negotiations and public stoushes on the conference floor. Is the ALP too tame?
-This episode was recorded on Friday 24 July, the second day of the 3-day conference."
+Description = "Janaline, Luke and Glenn are joined by former co-host William at the ALP National Conference in Adelaide, where they talk about how the policy sausage is made and debate the pros and cons of behind the scenes negotiations and public stoushes on the conference floor. Is the ALP too tame?This episode was recorded on Friday 24 July, the second day of the 3-day conference."
 episode_image = ""
 explicit = "no"
 author = "Janaline"
