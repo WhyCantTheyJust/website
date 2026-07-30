@@ -12,7 +12,7 @@ episode_image = ""
 explicit = "no"
 author = "Janaline"
 guests = []
-tags = ["policy process", "politics"]
+tags = ["policy process", "Australian politics"]
 draft = false
 +++
 
