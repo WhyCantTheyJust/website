@@ -42,7 +42,7 @@ I'm Janaline Oh, I’m also a member of the Labor Party. I’m a former diplomat
 I’m Luke Robertson, I’m a member of the Labor Party, as well as a conservation biology and environmental policy student.
 
 **Janaline**<br> 
-Before we start, I would like to acknowledge that Glenn and I are recording this on the unceded lands of First Nations people in Australia, recognising that sovereignty was never ceded, we pay our respects to their Elders, past and present, and extend those respects to any First Nations listeners that we have today.
+Before we start, I would like to acknowledge that we are all recording this on the unceded lands of First Nations people in Australia, recognising that sovereignty was never ceded, we pay our respects to their Elders, past and present, and extend those respects to any First Nations listeners that we have today.
 
 **Glenn**<br> 
 Today is a very special episode of Why Can’t They Just. Not only are Janaline, Luke and myself all present in the same place to record this episode, for the first time, but we also welcome back former co-host William to the team for this episode. Welcome William.
