@@ -1,6 +1,6 @@
 baseURL = 'https://whycanttheyjust.com.au/'
 locale = 'en-us'
-title = "Policy 4 People"
+title = "Why Can't They Just? | Policy 4 People"
 theme = 'castanet'
 pagination.pagerSize = "9"
 
@@ -12,9 +12,9 @@ pagination.pagerSize = "9"
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
 [[Menu.Main]]
-    name = "Our podcast: Why Can't They Just?"
-    identifier = "podcast"
-    url = "/podcast"
+    name = "Policy 4 People"
+    identifier = "org"
+    url = "https://policy4people.org.au/"
 
 [[Menu.Main]]
     name = "Who we are"
