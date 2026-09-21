@@ -2,7 +2,7 @@
 date = '2026-09-16'
 episode = "S3-04"
 slug = "AI society"
-aliases = ["/S3-03"]
+aliases = ["/S3-04"]
 spotify = "3E7KooFyLxDPa1wtNfTK1p"
 hosts = ["janaline", "luke", "yassine"]
 title = "What is AI doing to society (and how do we make it good)?"
