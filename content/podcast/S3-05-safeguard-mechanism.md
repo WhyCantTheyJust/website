@@ -11,7 +11,7 @@ episode_image = ""
 explicit = "no"
 author = "Janaline"
 guests = []
-tags = ["climate change", "industry", "economic policy"]
+tags = ["climate", "economic policy"]
 draft = false
 +++
 
