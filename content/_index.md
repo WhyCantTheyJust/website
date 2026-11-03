@@ -12,7 +12,7 @@ A podcast aimed at delving into Australian politics and policy with a focus on e
 
 We started this podcast because we got tired of endless commentary on important policy issues that was more interested in the impact of policies on politicians and their careers than on real people's lives. We try to unpick this and present it in a way that will make sense to people who don't have time to read all the detail themselves.
 
-We don't pretend to have all the answers; we aren't even trying to talk people into agreeing with us. We want to have a discussion that helps everyone - including us - to understand the issues better: perhaps to learn something we didn't know before, or think about an issue from an angle we hadn't thought of before. Our aim is to leave everyone feeling a little bit smarter.
+We don't pretend to have all the answers; we aren't even trying to make people agree with us. We want to have a discussion that helps everyone - including us - to understand the issues better: perhaps to learn something we didn't know before, or think about an issue from an angle we hadn't thought of before. Our aim is to leave everyone feeling a little bit smarter.
 
 If you like our work, please consider [supporting us on Patreon](https://www.patreon.com/cw/Policy4People).
 
