@@ -10,7 +10,9 @@ aliases = ["/podcast/"]
 
 A podcast aimed at delving into Australian politics and policy with a focus on environment, wealth inequality and foreign policy. We try to answer the question: why can't they (the government) just solve big issues with simple solutions?
 
-We started this podcast because we got tired of endless commentary on important policy issues that focused only on politics and not on the policies themselves and their potential outcomes. Politics can determine what policies can pass and in what form, but the more important question is what policies are and what they will and won't achieve. We try to unpick this and present it in a way that will make sense to people who don't have time to read all the detail themselves.
+We started this podcast because we got tired of endless commentary on important policy issues that was more interested in the impact of policies on politicians and their careers than on real people's lives. We try to unpick this and present it in a way that will make sense to people who don't have time to read all the detail themselves.
+
+We don't pretend to have all the answers; we aren't even trying to talk people into agreeing with us. We want to have a discussion that helps everyone - including us - to understand the issues better: perhaps to learn something we didn't know before, or think about an issue from an angle we hadn't thought of before. Our aim is to leave everyone feeling a little bit smarter.
 
 If you like our work, please consider [supporting us on Patreon](https://www.patreon.com/cw/Policy4People).
 
